@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/askja
 excerpt: 'Landslide hazard motivates the need for a deeper understanding of the events that occur before, during, and after catastrophic slope failures.  Here, we use data from a network of 58 seismic stations to characterise a large landslide at the Askja caldera, Iceland, on 21 July 2014.'
 date: 2018-06-14
-venue: ' '
+venue: 'Earth Surface Dynamics'
 paperurl: 'http://bradlipovsky.github.io/files/schopa2018.pdf'
 citation: 'Schöpa, A., Chao, W. A., Lipovsky, B. P., Hovius, N., White, R. S., Green, R. G., & Turowski, J. M. (2018). &quot;Dynamics of the Askja caldera July 2014 landslide, Iceland, from seismic signal analysis: precursor, motion and aftermath.&quot; <i>Earth Surface Dynamics</i>, 6(2).'
 ---
