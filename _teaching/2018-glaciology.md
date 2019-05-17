@@ -25,6 +25,29 @@ throughout this course.
 
 ## Homeworks
 [Homework 1](/files/eps253/Homework1.pdf)
+[Homework 2](/files/eps253/Homework2.pdf)
+[Homework 3](/files/eps253/Homework3.pdf)
+[Homework 4](/files/eps253/Homework4.pdf)
+
+## Notes on topics of special focus
+1. [Simple glacier models](/files/eps253/Notes-1_SimpleGlacierModel.pdf)
+2. [General derivation of ice flow models](/files/eps253/Notes-2_GeneralDerivation.pdf)
+3. [Basal sliding](/files/eps253/Notes-3_BasalSliding.pdf)
+4. [Ice-sediment interactions and interfacial premelting](/files/eps253/Notes-4_BasalPremelting.pdf)
+5. [Marine ice sheets](/files/eps253/Notes-5_MarineIceSheets.pdf)
+6. [Subglacial hydrology](/files/eps253/Notes-6_SubglacialHydrology.pdf)
+7. [Ice sheet archives](/files/eps253/Notes-7_IceSheetArchives.pdf)
+8. [Surface energy budget feedbacks](/files/eps253/Notes-8_HypsometricFeedback.pdf)
+
+## Slides from lectures
+1. [General introduction](/files/eps253/Slides-1_Introduction.pdf)
+2. [Introduction to models](/files/eps253/Slides-2_ModelsIntro.pdf)
+3. [Sliding models](/files/eps253/Slides-3_SlidingModels.pdf)
+4. [Ice shelves](/files/eps253/Slides-4_IceShelves.pdf)
+5. [Marine Ice Sheets](/files/eps253/Slides-5_MarineIceSheets.pdf)
+6. [Ice Streams](/files/eps253/Slides-6_IceStreams.pdf)
+7. [The surface energy budget, 1.](/files/eps253/Slides-9_SurfaceEnergyBalance.pdf)
+8. [The surface energy budget, 2.](/files/eps253/Slides-10_SebProcesses.pdf)
 
 ## Meeting Times
 09:45 AM - 11:45 AM, Location: Geological Museum 204 (FAS)
