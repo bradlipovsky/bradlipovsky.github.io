@@ -10,9 +10,10 @@ location: "Iceland"
 
 ![Iceland Photo](https://bradlipovsky.github.io/images/IcelandPhoto.jpg)
   
-    <div id="map"></div>
-    <div id="content-window"></div>
-    <script>
+<div id="map"></div>
+<div id="content-window"></div>
+    
+<script>
 
       function initMap() {
         var map = new google.maps.Map(document.getElementById('map'), {
@@ -36,10 +37,11 @@ location: "Iceland"
           sidediv.innerHTML = text;
         }
       }
-    </script>
-    <script async defer
+</script>
+    
+<script async defer
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBtPv2k0PXYGTUgg--QdgtlG2Bqg_QM56M&callback=initMap">
-    </script>
+</script>
 
 
 # Logistics
