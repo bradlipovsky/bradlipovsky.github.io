@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Summer Informal Glaciology Reading Group"
+permalink: /summer-reading-group/
+---
+
+{% include base_path %}
+
+
 Summer Informal Glaciology Reading Group 
 
 May 29.  The geological record of glaciation
