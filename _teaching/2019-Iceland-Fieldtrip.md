@@ -8,6 +8,8 @@ date: 2019-08-25
 location: "Iceland"
 ---
 
+A week long fieldtrip to Iceland that emphasizes tectonics, glaciology, volcanology, climate, and Earth history.
+
 ![Iceland Photo](https://bradlipovsky.github.io/images/IcelandPhoto.jpg)
   
 # Preliminary Itinerary
