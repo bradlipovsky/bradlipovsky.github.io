@@ -6,10 +6,6 @@ permalink: /summer-reading-group/
 
 {% include base_path %}
 
-
-Summer Informal Glaciology Reading Group 
-==================================================
-
 May 29.  The geological record of glaciation
 --------------------------------------------------
 - Preparation for the New England Friends of the Pleistocene trip.
