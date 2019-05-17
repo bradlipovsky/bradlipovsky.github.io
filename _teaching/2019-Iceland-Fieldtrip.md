@@ -34,7 +34,7 @@ We will have one large bus.  We will generally stop at least once every two hour
 
 Gear List
 ==========
-tl;dr:  Proper clothing and boots is essential. Be prepared for wet and cool to cold weather and intermittent intense sun. Temperatures will typically be in the 40’s to 50’s °F with below freezing temperatures possible. Layering is key.  You will have to load and unload your bags from the bus every day.  So don't bring too much stuff.  We will get out of the bus for geology stops and short hikes regardless of weather. We will also do some longer hikes so good boots, and adequate rain/snow gear are essential.   You will not need “evening out” types of clothes as we're mostly going to be in the field.   
+Proper clothing and boots are essential. Be prepared for wet and cool to cold weather and intermittent intense sun. Temperatures will typically be in the 40’s to 50’s F with below freezing temperatures possible. Layering is key.  You will have to load and unload your bags from the bus every day.  So don't bring too much stuff.  We will get out of the bus for geology stops and short hikes regardless of weather. We will also do some longer hikes so good boots, and adequate rain/snow gear are essential.   You will not need “evening out” types of clothes as we're mostly going to be in the field.   
 
 - Day pack, large enough for lunch, rain gear, water bottle, sweater
 - Notebook for journal entries
