@@ -7,3 +7,5 @@ venue: "Harvard University, Department of Earth and Planetary Sciences"
 date: 2019-08-25
 location: "Iceland"
 ---
+
+![Iceland Photo](https://bradlipovsky.github.io/images/IcelandPhoto.jpg)
