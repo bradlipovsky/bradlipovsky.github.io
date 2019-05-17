@@ -34,7 +34,7 @@ We will have one large bus.  We will generally stop at least once every two hour
 
 Gear List
 ==========
-tl;dr: For this trip to Iceland, you will not need “evening out” types of clothes, lots of shoes, etc. However, you should be prepared for wet and cool to cold weather and intermittent intense sun. Temperatures will typically be in the 40’s to 50’s °F with below freezing temperatures possible.  We will get out for geology stops, often requiring short hikes, regardless of the of weather conditions that we may encounter. We will also do some longer hikes/ excursions so good boots, and adequate rain/snow gear are essential. 
+tl;dr:  Proper clothing and boots is essential. Be prepared for wet and cool to cold weather and intermittent intense sun. Temperatures will typically be in the 40’s to 50’s °F with below freezing temperatures possible. Layering is key.  You will have to load and unload your bags from the bus every day.  So don't bring too much stuff.  We will get out of the bus for geology stops and short hikes regardless of weather. We will also do some longer hikes so good boots, and adequate rain/snow gear are essential.   You will not need “evening out” types of clothes as we're mostly going to be in the field.   
 
 - Day pack, large enough for lunch, rain gear, water bottle, sweater
 - Notebook for journal entries
@@ -64,4 +64,3 @@ tl;dr: For this trip to Iceland, you will not need “evening out” types of cl
 - Hiking and sneaker socks, multiple pairs
 - Long underwear, bottoms and tops.
 
-More info:  Layering is the key to comfort. Although several places where we will stay have laundry facilities, they are very slow so that you might have to team up and just wash essentials. Best plan is look at laundry as a luxury rather than essential.   You will be limited to one 50lb checked bag and one small carry on no more than 22lb, moreover space on the buss is limited and you will be handling these bags every day: DO NOT BRING TOO MUCH STUFF! Proper clothing and boots is mandatory  
