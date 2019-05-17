@@ -1,10 +1,10 @@
 ---
 title: "Informal summer reading group"
 collection: teaching
-type: "Graduate course"
+type: "Low-key glacier reading group"
 permalink: /teaching/2019-seminar
 venue: "Harvard University, Department of Earth and Planetary Sciences"
-date: 2018-09-01
+date: 2019-06-01
 location: "Cambridge, United States"
 ---
 
