@@ -9,6 +9,38 @@ location: "Iceland"
 ---
 
 ![Iceland Photo](https://bradlipovsky.github.io/images/IcelandPhoto.jpg)
+  
+    <div id="map"></div>
+    <div id="content-window"></div>
+    <script>
+
+      function initMap() {
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 12,
+          center: {lat: 37.06, lng: -95.68}
+        });
+
+        var kmlLayer = new google.maps.KmlLayer({
+          url: 'http://googlemaps.github.io/kml-samples/kml/Placemark/placemark.kml',
+          suppressInfoWindows: true,
+          map: map
+        });
+
+        kmlLayer.addListener('click', function(kmlEvent) {
+          var text = kmlEvent.featureData.description;
+          showInContentWindow(text);
+        });
+
+        function showInContentWindow(text) {
+          var sidediv = document.getElementById('content-window');
+          sidediv.innerHTML = text;
+        }
+      }
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBtPv2k0PXYGTUgg--QdgtlG2Bqg_QM56M&callback=initMap">
+    </script>
+
 
 # Logistics
 
