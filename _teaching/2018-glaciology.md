@@ -11,7 +11,7 @@ location: "Cambridge, United States"
 An introduction graduate course that explores the physics of glaciers and ice sheets
 
 
-# Description
+## Description
 This course explores the physics of glaciers and ice sheets. We begin by describing
 “synoptic scale” glaciology, i.e., at the scale of entire glaciers and ice sheets. The course then
 examines the smaller-scale physics of the glacier-atmosphere, -bed, and -ocean interfaces, the
@@ -23,12 +23,17 @@ physics, geophysical data, simple computer simulations, and large-scale ice shee
 Prerequisites. Familiarity with the analysis of partial differential equations. Matlab will be used
 throughout this course.
 
-# Meeting Times
+## Homeworks
+[Homework 1](/files/eps253/Homework1.pdf)
+
+## Meeting Times
 09:45 AM - 11:45 AM, Location: Geological Museum 204 (FAS)
 # Office Hours 
 TBD or appointment-based.
 
-# Course outline (approximately by week number).
+## Course outline 
+(approximately by week number)
+
 1. Synoptic scale glaciology 1: observations of modern glaciers and ice sheets. Geophysical
 and remotely sensed observations. The geological record of past ice sheets.
 2. Synoptic scale glaciology 2: glaciers and ice sheets as thin diffusive flows. Stokes flow,
@@ -58,15 +63,15 @@ Attribution of certain changes to human activity (or not).
 Stable isotopes, fractionation. Ice core disturbances due to interfacial premelting.
 12. Final presentations.
 
-# Problem sets. 
+## Problem sets
 There will be several problem sets. Collaboration is encouraged.
 
-# Class Meetings. 
+## Class Meetings
 Meetings will be a mixture of traditional lectures as well as problem solving
 time. During problem solving sessions students will do a combination of math, programming,
 and data analysis surrounding the weekly deep-focus topic.
 
-# Final Project. 
+## Final Project 
 Students will work alone or in groups to answer a glaciological research question
 that they formulate with the assistance of the Instructor. It’s recommended that students
 begin to formulate their research question by visiting office hours throughout the term. The
@@ -74,11 +79,10 @@ final project will consist of 1) a written report of about the length of a paper
 Research Letters, 2) an open repository of any codes developed for the project, and 3) a 15-
 minute “AGU” style talk.
 
-# Grading. 
+## Grading 
 50% Problem Sets, 50% Final Project.
 
-# The Harvard Honor Code
-
+## The Harvard Honor Code
 “Members of the Harvard College community commit themselves to
 producing academic work of integrity – that is, work that adheres to the scholarly and
 intellectual standards of accurate attribution of sources, appropriate collection and use of data,
@@ -88,11 +92,11 @@ misrepresenting the ideas or language of someone else as one’s own, falsifying
 other instance of academic dishonesty violates the standards of our community, as well as the
 standards of the wider world of learning and affairs.”
 
-# Academic Accommodations
+## Academic Accommodations
 Any student needing academic adjustments or accommodations
 is requested to speak with the Lecturer by the end of the second week of the term.
 
-# References
+## References
 Cuffey, Kurt M., and William S. B. Paterson. The Physics of Glaciers. Academic Press, 2010.
 Benn, Douglas, and David J. A. Evans. Glaciers and Glaciation. Routledge, 2014.
 Hooke, Roger LeB. Principles of Glacier Mechanics. Cambridge University Press, 2005.
