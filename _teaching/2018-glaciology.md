@@ -23,11 +23,13 @@ physics, geophysical data, simple computer simulations, and large-scale ice shee
 Prerequisites. Familiarity with the analysis of partial differential equations. Matlab will be used
 throughout this course.
 
-## Homeworks
-[Homework 1](/files/eps253/Homework1.pdf)
-[Homework 2](/files/eps253/Homework2.pdf)
-[Homework 3](/files/eps253/Homework3.pdf)
-[Homework 4](/files/eps253/Homework4.pdf)
+## Problem Sets
+*Collaboration is encouraged.*
+
+[Problem Set 1](/files/eps253/Homework1.pdf)
+[Problem Set 2](/files/eps253/Homework2.pdf)
+[Problem Set 3](/files/eps253/Homework3.pdf)
+[Problem Set 4](/files/eps253/Homework4.pdf)
 
 ## Notes on topics of special focus
 1. [Simple glacier models](/files/eps253/Notes-1_SimpleGlacierModel.pdf)
@@ -46,16 +48,21 @@ throughout this course.
 4. [Ice shelves](/files/eps253/Slides-4_IceShelves.pdf)
 5. [Marine Ice Sheets](/files/eps253/Slides-5_MarineIceSheets.pdf)
 6. [Ice Streams](/files/eps253/Slides-6_IceStreams.pdf)
-7. [The surface energy budget, 1.](/files/eps253/Slides-9_SurfaceEnergyBalance.pdf)
-8. [The surface energy budget, 2.](/files/eps253/Slides-10_SebProcesses.pdf)
+7. [Glacier hydrology](/files/eps253/Slides-7_Hydrology.pdf)
+8. [Ice sheet paleoclimate archives](/files/eps253/Slides-8_IceSheetPaleoclimateArchives.pdf)
+9. [The surface energy budget, Part 1](/files/eps253/Slides-9_SurfaceEnergyBalance.pdf)
+10. [The surface energy budget, Part 2](/files/eps253/Slides-10_SebProcesses.pdf)
 
-## Meeting Times
-09:45 AM - 11:45 AM, Location: Geological Museum 204 (FAS)
-# Office Hours 
-TBD or appointment-based.
+## Class Meetings
+09:45 AM - 11:45 AM, Location: Geological Museum 204
+*Office Hours TBD or appointment-based*
 
-## Course outline 
-(approximately by week number)
+Meetings will be a mixture of traditional lectures as well as problem solving
+time. During problem solving sessions students will do a combination of math, programming,
+and data analysis surrounding the weekly deep-focus topic.
+
+## Detailed course outline 
+*approximately by week number*
 
 1. Synoptic scale glaciology 1: observations of modern glaciers and ice sheets. Geophysical
 and remotely sensed observations. The geological record of past ice sheets.
@@ -86,13 +93,6 @@ Attribution of certain changes to human activity (or not).
 Stable isotopes, fractionation. Ice core disturbances due to interfacial premelting.
 12. Final presentations.
 
-## Problem sets
-There will be several problem sets. Collaboration is encouraged.
-
-## Class Meetings
-Meetings will be a mixture of traditional lectures as well as problem solving
-time. During problem solving sessions students will do a combination of math, programming,
-and data analysis surrounding the weekly deep-focus topic.
 
 ## Final Project 
 Students will work alone or in groups to answer a glaciological research question
