@@ -50,7 +50,7 @@ This course explores the physics of glaciers and ice sheets. We begin by describ
 - Meetings will be a mixture of traditional lectures as well as problem solving time. During problem solving sessions students will do a combination of math, programming, and data analysis surrounding the weekly deep-focus topic.
 
 ## Detailed course outline 
-*approximately by week number*
+*The following list is given approximately by week number.  The course will tailored to students' interests and we may not cover everything listed here in order to go into more detail on particular areas.*
 
 1. Synoptic scale glaciology 1: observations of modern glaciers and ice sheets. Geophysical and remotely sensed observations. The geological record of past ice sheets.
 2. Synoptic scale glaciology 2: glaciers and ice sheets as thin diffusive flows. Stokes flow, ice constitutive relations, asymptotic approximations to ice flow including the shallow ice approximation. Simple ice sheet models as a framework for hypothesis testing. Flow energetics. The time scales of glacier response.
