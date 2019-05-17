@@ -6,14 +6,14 @@ permalink: /summer-reading-group/
 
 {% include base_path %}
 
-==================================================
+
 Summer Informal Glaciology Reading Group 
 ==================================================
 
 May 29.  The geological record of glaciation
 --------------------------------------------------
-Preparation for the New England Friends of the Pleistocene trip.
-USGS, 2018.   Surficial Materials of Massachusetts—A 1:24,000-Scale Geologic Map Database
+- Preparation for the New England Friends of the Pleistocene trip.
+- USGS, 2018.   Surficial Materials of Massachusetts—A 1:24,000-Scale Geologic Map Database
 
 June 12.  Mass balance
 --------------------------------------------------
