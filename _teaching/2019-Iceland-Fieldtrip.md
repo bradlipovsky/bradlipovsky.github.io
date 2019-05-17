@@ -13,30 +13,28 @@ location: "Iceland"
 <div id="map"></div>
 <div id="content-window"></div>
     
-<script>
-
+<script> 
 function initMap() {
-        var map = new google.maps.Map(document.getElementById('map'), {
-          zoom: 12,
-          center: {lat: 37.06, lng: -95.68}
-        });
-
+var map = new google.maps.Map(document.getElementById('map'), {
+zoom: 12,
+center: {lat: 37.06, lng: -95.68}
+});
 var kmlLayer = new google.maps.KmlLayer({
-          url: 'http://googlemaps.github.io/kml-samples/kml/Placemark/placemark.kml',
-          suppressInfoWindows: true,
-          map: map
-        });
+url: 'http://googlemaps.github.io/kml-samples/kml/Placemark/placemark.kml',
+suppressInfoWindows: true,
+map: map
+});
 
 kmlLayer.addListener('click', function(kmlEvent) {
-          var text = kmlEvent.featureData.description;
-          showInContentWindow(text);
-        });
+var text = kmlEvent.featureData.description;
+showInContentWindow(text);
+});
 
 function showInContentWindow(text) {
-          var sidediv = document.getElementById('content-window');
-          sidediv.innerHTML = text;
-        }
-      }
+var sidediv = document.getElementById('content-window');
+sidediv.innerHTML = text;
+}
+}
 </script>
     
 <script async defer
