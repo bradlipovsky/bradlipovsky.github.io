@@ -73,10 +73,12 @@ begin to formulate their research question by visiting office hours throughout t
 final project will consist of:
 
 1. a written report of about the length of a paper in Geophysical Research Letters,
-2. an open repository of any codes developed for the project, and 3) a 15 minute “AGU” style talk.
+2. an open repository of any codes developed for the project, and 
+3. a 15 minute “AGU” style talk.
 
 ## Grading 
-50% Problem Sets, 50% Final Project.
+- 50% Problem Sets
+- 50% Final Project
 
 ## The Harvard Honor Code
 “Members of the Harvard College community commit themselves to producing academic work of integrity – that is, work that adheres to the scholarly and intellectual standards of accurate attribution of sources, appropriate collection and use of data, and transparent acknowledgement of the contribution of others to their ideas, discoveries, interpretations, and conclusions. Cheating on exams or problem sets, plagiarizing or misrepresenting the ideas or language of someone else as one’s own, falsifying data, or any other instance of academic dishonesty violates the standards of our community, as well as the standards of the wider world of learning and affairs.”
@@ -88,4 +90,4 @@ Any student needing academic adjustments or accommodations is requested to speak
 - Cuffey, Kurt M., and William S. B. Paterson. The Physics of Glaciers. Academic Press, 2010.
 - Benn, Douglas, and David J. A. Evans. Glaciers and Glaciation. Routledge, 2014.
 - Hooke, Roger LeB. Principles of Glacier Mechanics. Cambridge University Press, 2005.
-- Van der Veen, Cornelis J. Fundamentals of Glacier Dynamics. CRC Press, 2013.
+- van der Veen, Cornelis J. Fundamentals of Glacier Dynamics. CRC Press, 2013.
