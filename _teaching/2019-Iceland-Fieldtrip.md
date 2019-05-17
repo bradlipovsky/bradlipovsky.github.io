@@ -11,7 +11,9 @@ location: "Iceland"
 A week long fieldtrip to Iceland that emphasizes tectonics, glaciology, volcanology, climate, and Earth history.
 
 ![Iceland Photo](https://bradlipovsky.github.io/images/IcelandPhoto.jpg)
-  
+
+# [Link to our route map](https://bradlipovsky.github.io/IcelandMap/)
+
 # Preliminary Itinerary
 ### August 24
 Depart Boston in the evening.  This is a red eye flight, you will not get a good nights sleep, so be well rested to start!
