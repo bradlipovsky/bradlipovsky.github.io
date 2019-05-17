@@ -12,22 +12,22 @@ location: "Iceland"
 
 # Logistics
 
-## Lodging
+### Lodging
 We will be staying at Hostel style accommodations.  Typically there are rooms with 3-four beds (possibly bunk beds), assigned by gender.  Bathrooms and showers are “down the hall”.    You might want to pack a light bath robe and slippers. Before the trip we will give you a list of the places we will be staying along with contact information.
 
-## Meals
+### Meals
 Let us know if you have any dietary restrictions.  Meals will be taken care of and we will supply some snacks.  Breakfast in Iceland is typically a smorgasbord, that includes hard-boiled eggs, cheese, ham, fruit, various breads and crackers, and usually cold cereals, oatmeal, and the Iceland yogurt called skyr.  Sometimes we will make our lunch from this spread, sometimes box lunches will be provided.  Dinners will typically be set menus, with provision for vegetarians and vegans.  You should expect to be served a lot of fish and lamb.  
 
-## Washing clothes
+### Washing clothes
 Don’t plan on it.  Opportunities for washing will be limited.  You should bring what you need. 
 
-## Weather
+### Weather
 The weather in Iceland is typically windy, wet and cool.   Be prepared!  Bring all the suggested clothing on the gear list.  Jacket and rain pants are essential;  they don’t need to be high tech (expensive) breathable fabric.  Bring bathing suits  for the hot springs!  Sturdy hiking boots are required.  Both moraines and lava flows can be uneven and unstable.  
 
-## Hikes
+### Hikes
 The hikes will be generally less than an hour, but we will have one day with longer hikes.  We will probably have a long and short option, but the hikes will be half day. Trails will be similar to what you might expect in the US with some rocky and wet stretches and some steep sections.
 
-## Travel by bus
+### Travel by bus
 We will have one large bus.  We will generally stop at least once every two hours at a place with toilettes and a store.  These facilities have Wifi, as will our lodgings.  Pack light! We will be changing our lodgings almost every night, and dragging huge suitcases or duffels is tiresome, and space is limited on the bus.  
 
 
