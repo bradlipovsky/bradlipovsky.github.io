@@ -8,6 +8,8 @@ date: 2018-09-01
 location: "Cambridge, United States"
 ---
 
+An introduction graduate course that explores the physics of glaciers and ice sheets
+
 
 # Description
 This course explores the physics of glaciers and ice sheets. We begin by describing
