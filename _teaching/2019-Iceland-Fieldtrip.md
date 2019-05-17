@@ -10,36 +10,27 @@ location: "Iceland"
 
 ![Iceland Photo](https://bradlipovsky.github.io/images/IcelandPhoto.jpg)
   
-<div id="map"></div>
-<div id="content-window"></div>
-    
-<script> 
-function initMap() {
-var map = new google.maps.Map(document.getElementById('map'), {
-zoom: 12,
-center: {lat: 37.06, lng: -95.68}
-});
-var kmlLayer = new google.maps.KmlLayer({
-url: 'http://googlemaps.github.io/kml-samples/kml/Placemark/placemark.kml',
-suppressInfoWindows: true,
-map: map
-});
+# Preliminary Itinerary
+### August 24
+Depart Boston in the evening.  This is a red eye flight, you will not get a good nights sleep, so be well rested to start!
 
-kmlLayer.addListener('click', function(kmlEvent) {
-var text = kmlEvent.featureData.description;
-showInContentWindow(text);
-});
+### Day 1, August 25
+Upon the group’s arrival we will be greeted by our guide and start the day with a day tour around Reykjanes Peninsula.  We will visit the bridge between the plates, geothermal springs, a lighthouse and pillow basalts / pahoehoe flows.  Spend the night in Reykjavik at Reykjavik City Hostel.
 
-function showInContentWindow(text) {
-var sidediv = document.getElementById('content-window');
-sidediv.innerHTML = text;
-}
-}
-</script>
-    
-<script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBtPv2k0PXYGTUgg--QdgtlG2Bqg_QM56M&callback=initMap">
-</script>
+### Day 2, August 26
+We will drive to the South to Þingvellir National Park, a UNESCO site and the place where the Icelandic Parliament was founded in AD 930. Þingvellir is also located in a rift valley that marks the crest of the Mid-Atlantic Ridge. Next we drive to Geysir, the famous geyser. Geysir had been inactive for years now, but its neighbor, Strokkur erupts every 4-8 minutes. Nearby there is Gullfoss, or “The Golden Falls”, a spectacular double cascade waterfall that exposes lava flows and sedimentary layers. Afterwards we will travel inland to the Landmannahellir highland area for your accommodation for the night at another hostel.
+
+### Day 3, August 27
+This morning we will continue driving inland through rather barren volcanic landscape to Landmannalaugar; site of the famous hotsprings. After a good soak we will spend the rest of the day exploring the craters and lava flows in Fjallabak Nature Reserve. In the afternoon we will travel through the Fjallabak highlands to Kirkjubæjarklaustur area and then back to the coast to our lodgings in Vík.
+
+### Day 4, August 28
+Today we will focus on the geology of the South Coast.  Reynisfjara impresses with its black sandy beach backed by Reynisdrangar, basalt sea stacks emerging from the sea. Dyrhólahey rises dramatically rises above the area, revealing a beautiful overlook of barrier beaches and sea stacks.  Hopefully we will see Puffins nesting in its bluff cliffs.  We will take a Glacier Hike on Sólheimajökull glacier.  Later we will visit he impressive Skógafoss and Seljalandsfoss waterfalls (you will need your rain gear!). From there we will enter a gravel road to Þórsmörk passing under the infamous Eyjafjallajökull that paralyzed air traffic in 2010 and crossi numerous river fords.  We will stay at the remote Volcano huts.
+
+### Day 5, August 29
+We will spend a full day in Þórsmörk Valley. We will take some hikes around the area, visit a gorge located right beneath Eyjafjallajökull volcano and look at moraines from alpine glaciers and the deposits and kettle holes from the Jokulhlaup from the Eyjafjallajökull eruption. 
+
+### Day 6, August 30
+After breakfast you will travel back to the asphalt and travel the south coast to Reykjanes Peninsula again. We will visit the worlds largest geothermal power plant on the way. We will be at the airport in time for your flight back.
 
 
 # Logistics
