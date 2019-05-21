@@ -14,7 +14,7 @@ May 29.  The geological record of glaciation
 ======
 *Preparation for the New England Friends of the Pleistocene trip.*
 - [USGS, 2018.   Surficial Materials of Massachusetts—A 1:24,000-Scale Geologic Map Database](https://pubs.usgs.gov/sim/3402/sim3402.pdf)
-- Finlayson et al., (2019) Subglacial drumlins and englacial fractures at the surge‐type glacier, Múlajökull, Iceland
+- [Finlayson et al., (2019) Subglacial drumlins and englacial fractures at the surge‐type glacier, Múlajökull, Iceland](https://onlinelibrary.wiley.com/doi/pdf/10.1002/esp.4485)
 
 June 12.  Mass balance
 ======
