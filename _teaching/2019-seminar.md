@@ -10,6 +10,8 @@ location: "Cambridge, United States"
 
 A low-key reading group that meets about twice per month in the summer to discuss recent progress in all areas of glaciology.
 
+Lunch meetings on Wednesdays in the Birch Seminar Room.  Lunch will be provided!
+
 May 29.  The geological record of glaciation
 ======
 *Preparation for the New England Friends of the Pleistocene trip.*
