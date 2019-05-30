@@ -26,10 +26,11 @@ June 12.  Mass balance
 
 TBD Late June:  Seismology
 ======
-- Hudson et al., 2019. Automated detection of basal icequakes and discrimination from surface crevassing.
-- Schlegel et al., 2019.  Comparison of elastic moduli from seismic diving-wave and ice-core microstructure analysis in Antarctic polar firn.
-- Vore et al., 2019. Seismic Tremor Reveals Spatial Organization and Temporal Changes of Subglacial Water System.
-- Pham and Tkalcic, 2017. On the feasibility and use of teleseismic P wave coda autocorrelation for mapping shallow seismic discontinuities.
+- [Hudson et al., 2019. Automated detection of basal icequakes and discrimination from surface crevassing.](http://doi.org/10.1017/aog.2019.18)
+- [Schlegel et al., 2019.  Comparison of elastic moduli from seismic diving-wave and ice-core microstructure analysis in Antarctic polar firn.](https://doi.org/10.1017/aog.2019.10)
+- Other papers from the recent Annals of Glaciology volume on Cryoseismology
+- [Vore et al., 2019. Seismic Tremor Reveals Spatial Organization and Temporal Changes of Subglacial Water System.](https://doi.org/10.1029/2018JF004819)
+- [Pham and Tkalcic, 2017. On the feasibility and use of teleseismic P wave coda autocorrelation for mapping shallow seismic discontinuities.](https://doi.org/10.1002/2017JB013975)
 
 TBD Early July: Dynamics
 ======
