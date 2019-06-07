@@ -16,7 +16,7 @@ A week long fieldtrip to Iceland that emphasizes tectonics, glaciology, volcanol
 
 # Preliminary Itinerary
 ### August 24
-Depart Boston in the evening.  This is a red eye flight, you will not get a good nights sleep, so be well rested to start!
+Depart Boston in the evening.  This is a red eye flight, you will not get a good nights sleep, so be well rested to start!  Flight info:  Iceland Air flight 630  24 AUG    Departs Boston     9:05 pm arrives  6:05 am +1day
 
 ### Day 1, August 25
 Upon the group’s arrival we will be greeted by our guide and start the day with a day tour around Reykjanes Peninsula.  We will visit the bridge between the plates, geothermal springs, a lighthouse and pillow basalts / pahoehoe flows.  Spend the night in Reykjavik at Reykjavik City Hostel.
@@ -34,7 +34,7 @@ Today we will focus on the geology of the South Coast.  Reynisfjara impresses wi
 We will spend a full day in Þórsmörk Valley. We will take some hikes around the area, visit a gorge located right beneath Eyjafjallajökull volcano and look at moraines from alpine glaciers and the deposits and kettle holes from the Jokulhlaup from the Eyjafjallajökull eruption. 
 
 ### Day 6, August 30
-After breakfast you will travel back to the asphalt and travel the south coast to Reykjanes Peninsula again. We will visit the worlds largest geothermal power plant on the way. We will be at the airport in time for your flight back.
+After breakfast you will travel back to the asphalt and travel the south coast to Reykjanes Peninsula again. We will visit the worlds largest geothermal power plant on the way. We will be at the airport in time for your flight back.  Flight info: Iceland Air flight 631  30 AUG    Departs Reykjavik 5:15 pm arrives 6:50 pm 
 
 
 # Logistics
