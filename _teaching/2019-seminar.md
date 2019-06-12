@@ -18,11 +18,11 @@ May 29.  The geological record of glaciation
 - [USGS, 2018.   Surficial Materials of Massachusetts—A 1:24,000-Scale Geologic Map Database](https://pubs.usgs.gov/sim/3402/sim3402.pdf)
 - [Finlayson et al., (2019) Subglacial drumlins and englacial fractures at the surge‐type glacier, Múlajökull, Iceland](https://onlinelibrary.wiley.com/doi/pdf/10.1002/esp.4485)
 
-June 12.  Mass balance
+June 19.  Mass balance
 ======
-- Zemp et al., 2019. Global glacier mass changes and their contributions to sea-level rise from 1961 to 2016
-- Paolo et al., 2018 Response of Pacific-sector Antarctic ice shelves to the El Niño/Southern Oscillation
-- Huss et al., 2013. Implications of climate change on Glacier de la Plaine Morte, Switzerland
+- [Zemp et al., 2019. Global glacier mass changes and their contributions to sea-level rise from 1961 to 2016](https://doi.org/10.1038/s41586-019-1071-0)
+- [Paolo et al., 2018 Response of Pacific-sector Antarctic ice shelves to the El Niño/Southern Oscillation](https://doi.org/10.1038/s41561-017-0033-0)
+- [Huss et al., 2013. Implications of climate change on Glacier de la Plaine Morte, Switzerland](https://doi.org/10.5194/gh-68-227-2013)
 
 TBD Late June:  Seismology
 ======
