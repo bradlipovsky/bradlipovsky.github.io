@@ -1,6 +1,6 @@
 ---
 title: "Glacier sliding"
-excerpt: "<img src='/images/newbed.png'>"
+excerpt: "<img src='/images/newbed.png' width='400'>"
 collection: portfolio
 ---
 
