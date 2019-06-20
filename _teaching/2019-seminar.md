@@ -24,7 +24,7 @@ June 19.  Mass balance
 - [Paolo et al., 2018 Response of Pacific-sector Antarctic ice shelves to the El Niño/Southern Oscillation](https://doi.org/10.1038/s41561-017-0033-0)
 - [Huss et al., 2013. Implications of climate change on Glacier de la Plaine Morte, Switzerland](https://doi.org/10.5194/gh-68-227-2013)
 
-TBD Late June:  Seismology
+June 26:  Seismology
 ======
 - [Hudson et al., 2019. Automated detection of basal icequakes and discrimination from surface crevassing.](http://doi.org/10.1017/aog.2019.18)
 - [Schlegel et al., 2019.  Comparison of elastic moduli from seismic diving-wave and ice-core microstructure analysis in Antarctic polar firn.](https://doi.org/10.1017/aog.2019.10)
