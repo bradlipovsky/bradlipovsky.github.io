@@ -1,0 +1,25 @@
+---
+title: "EPS 268:  Machine Learning Across the Earth and Planetary Sciences"
+collection: teaching
+type: "Graduate course"
+permalink: /teaching/2019-ml
+venue: "Harvard University, Department of Earth and Planetary Sciences"
+date: 2019-09-01
+location: "Cambridge, United States"
+---
+
+An graduate course that explores applications of machine learning in a variety of EPS disciplines.
+
+
+## Description
+
+This graduate research seminar combines machine learning with applications in the Earth and Planetary Sciences. The class will consist of literature review augmented with significant data curation and coding. The students will decide on topics (some suggested below) and machine learning tools may include supervised learning (e.g., for seismic tomography; detection of earthquakes, impact craters, exoplanets), physics-driven discovery (e.g. estimating simple ODE’s to represent wave propagation, ENSO cycles, the earthquake cycle), time series analysis (e.g., on glacier length time series and/or climate reanalysis information), acceleration of multiphysics numerical modeling and for emulation of sub-grid scale processes (e.g. for small-scale earthquake processes, cloud parameterization, or ice sheet hydrology).
+
+Learning outcomes of the research seminar are: 1) knowledge of the successes and challenges in using Machine Learning for specific problems in the Earth and Planetary Sciences, 2) knowledge in the ML tools in supervised and unsupervised learning, 3) knowledge gained through hands-on experience in a coding project, 4) familiarity with ethical standards and debates surrounding reproducibility, transparency, open source code development, open data availability, and open access publishing. 
+
+The seminar will build toward a group or individual project given at the end of the term. Students are expected to read and present the papers, and work at least for 2-3 hours per week, outside of their class on their projects. Computing will be performed on either FAS Research Computing, a personal desktop, or other cloud computing options that could become available.
+
+Class time will be dedicated to presentations and coding activities, students are expected to bring their laptop with a working python and/or matlab and/or julia on the first day of class.
+
+## Syllabus
+[Link.](https://docs.google.com/document/d/1zfvg2e_8XGexlrN2Ixw78q0TYI5Y1IYzpxMBkkN9Li0/edit?usp=sharing)
