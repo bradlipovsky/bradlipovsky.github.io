@@ -14,8 +14,8 @@ Whether estimating sea level rise due to ice sheet melting or forecasting  volca
 Several themes and highlights of my research program include: 
 
 * I employ first-of-their kind models and new remote sensing and field strategies to understand __ice shelf fracture__ and its relationship to marine ice sheet stability.
-* I interrogate the validity of ice sheet models and their __glacier sliding laws__ using geophysical observations.
-* I articulate a theory of __hydraulic fracturing__ in volcanoes, glaciers, and reservoirs based in models, observation, and fieldwork.
+* I interrogate the validity of assumptions in ice sheet models and their __glacier sliding laws__ using geophysical observations.
+* I articulate a theory of __hydraulic fracturing__ in volcanoes, glaciers, and reservoirs based in asymptotic analysis, observation, and fieldwork.
 * I shape an understanding of __landslide__ seismicity that may provide hazard early warning.
 * I exploit geodesy, seismology, and rupture dynamical simulations to understand __tectonic earthquake__ complexity and post-seismic response.
 
