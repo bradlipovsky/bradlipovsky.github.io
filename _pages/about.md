@@ -9,7 +9,7 @@ redirect_from:
 ---
 ![Glaciers and glacial landforms around Mount Cooke, New Zealand.](https://bradlipovsky.github.io/images/PANO_20190317_142920.jpg)
 
-Whether estimating sea level rise due to ice sheet melting or forecasting of volcanic or tectonic unrest, the role of numerical simulations in our understanding of future hazards is fundamental. I use geophysical observations to validate the processes represented in societally-relevant, physics-based models.  Hazard-motivated models must correctly model the real world; that is, they must be valid.  Yet strict model validation is not as common as it ought to be.  Validation is interdisciplinary: it is the intersection of  data and models, observation and theory.  This goal --to consistently understand, observe, and model hazard-related geological phenomena-- is captured in the publications, teaching, and software presented on this website.
+Whether estimating sea level rise due to ice sheet melting or forecasting  volcanic or tectonic unrest, the role of numerical simulations in our understanding of societally-relevant geological phenomena is fundamental. I use geophysical observations to validate the processes represented in these societally-relevant, physics-based models.  Such  models must reflect the real world; that is, they must be valid.  Yet strict model validation is not as common as it ought to be.  Validation is hard because it is interdisciplinary: it is the intersection of  data and models and of observation and theory.  My overarching goal --to consistently understand, observe, and model societally-relevant geological phenomena-- is reflected in the publications, teaching, and software presented on this website.
 
 Several themes and highlights of my research program include: 
 
