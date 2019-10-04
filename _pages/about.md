@@ -13,11 +13,11 @@ My work aims to benefit humanity through a better understanding of the physics o
 
 Several themes and highlights of my research program include: 
 
-* I employ first-of-their kind models and new remote sensing and field strategies to understand *ice shelf fracture* and its relationship to marine ice sheet stability.
-* I question the validity of ice sheet models and their underlying {\bf glacier sliding laws} using geophysical observations.
-* I articulate a theory of {\bf hydraulic fracturing} in volcanoes, glaciers, and reservoirs based in models, observation, and fieldwork.
-* I shape an understanding of {\bf landslide} seismicity that may provide hazard early warning.
-* I exploit geodesy, seismology, and rupture dynamical simulations to understand {\bf tectonic earthquake} complexity and post-seismic response.
+* I employ first-of-their kind models and new remote sensing and field strategies to understand __ice shelf fracture__ and its relationship to marine ice sheet stability.
+* I interrogate the validity of ice sheet models and their __glacier sliding laws__ using geophysical observations.
+* I articulate a theory of __hydraulic fracturing__ in volcanoes, glaciers, and reservoirs based in models, observation, and fieldwork.
+* I shape an understanding of __landslide__ seismicity that may provide hazard early warning.
+* I exploit geodesy, seismology, and rupture dynamical simulations to understand __tectonic earthquake__ complexity and post-seismic response.
 
 
 
