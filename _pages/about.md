@@ -9,7 +9,7 @@ redirect_from:
 ---
 ![Fracture stresses on the Amery Ice Shelf.](https://bradlipovsky.github.io/images/AmeryImage.gif)
 
-__Starting in January 2021, I will be an assistant professor in the [Department of Earth and Space Sciences](http://ess.uw.edu) at the ][University of Washington](http://uw.edu)__.
+__Starting in January 2021, I will be an [assistant professor](https://www.ess.washington.edu/people/profile.php?pid=lipovsky--brad) in the [Department of Earth and Space Sciences](http://ess.uw.edu) at the [University of Washington](http://uw.edu)__.
 
 Whether estimating sea level rise due to ice sheet melting or forecasting  volcanic or tectonic unrest, the role of numerical simulations in our understanding of societally-relevant Earth system phenomena is fundamental. I use geophysical observations to validate the processes represented in these societally-relevant, physics-based models.  Such  models must reflect the real world; that is, they must be valid.  Yet strict model validation is not as common as it ought to be.  Validation is hard because it is interdisciplinary: it is the intersection of  data and models and of observation and theory.  My overarching goal --to consistently understand, observe, and model societally-relevant Earth system phenomena-- is documented in the scientific publications, teaching resources, and software presented on this website.
 
