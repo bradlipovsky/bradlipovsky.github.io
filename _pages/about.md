@@ -23,7 +23,7 @@ Several themes and highlights of my research program include:
 
 
 
-Student co-advisees:  [Seth Olinger](https://eps.harvard.edu/people/seth-olinger) 
+Student co-advisees:  Seth Olinger, Expected Graduation Spring 2023. [Harvard Website](https://eps.harvard.edu/people/seth-olinger), [Personal Website](https://setholinger.github.io/), [Github](http://github.com/setholinger).
 
 Collaborators: [Rick Aster](https://sites.warnercnr.colostate.edu/aster/),  [Eric Dunham](https://pangea.stanford.edu/~edunham/),  [Gareth Funning](http://www.garethfunning.com/), [Florent Gimbert](http://pp.ige-grenoble.fr/annuaire/annuaire-osug-ige/gimbertf.htm), [Dominik Gräff](http://www.vaw.ethz.ch/en/people/person-detail.html?persid=235960), [Hilmar Gudmundsson](https://www.northumbria.ac.uk/about-us/our-staff/g/g-hilmar-gudmundsson/),  [Niels Hovius](https://www.gfz-potsdam.de/en/staff/niels-hovius/), [Dylan Mikesell](https://earth.boisestate.edu/people/dylanmikesell/), [Brent Minchew](https://eapsweb.mit.edu/people/minchew), [Christine McCarthy](https://www.ldeo.columbia.edu/user/mccarthy), [Colin Meyer](https://engineering.dartmouth.edu/people/faculty/colin-meyer), [Aurélien Mordret](https://sites.google.com/site/aurelienmordretswebpage/home?authuser=0), [Seth Olinger](https://eps.harvard.edu/people/seth-olinger), [Alan Rempel](https://pages.uoregon.edu/rempel/),  [Anne Schöpa](https://www.gfz-potsdam.de/en/staff/anne-schoepa/sec51/), [Catherine Walker](https://www.whoi.edu/profile/cwalker/), [Fabian Walter](http://www.vaw.ethz.ch/en/people/person-detail.MTI0OTY2.TGlzdC8xOTYxLDE1MTczNjI1ODA=.html), [Doug Wiens](https://eps.wustl.edu/people/douglas-wiens), and [Lucas Zoet](http://geoscience.wisc.edu/geoscience/people/faculty/lucas-zoet/). 
 
