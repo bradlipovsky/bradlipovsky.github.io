@@ -9,7 +9,7 @@ redirect_from:
 ---
 ![Fracture stresses on the Amery Ice Shelf.](https://bradlipovsky.github.io/images/AmeryImage.gif)
 
-__Starting in January 2021, I will be an [assistant professor](https://www.ess.washington.edu/people/profile.php?pid=lipovsky--brad) in the [Department of Earth and Space Sciences](http://ess.uw.edu) at the [University of Washington](http://uw.edu)__.
+__I am an [assistant professor](https://www.ess.washington.edu/people/profile.php?pid=lipovsky--brad) in the [Department of Earth and Space Sciences](http://ess.uw.edu) at the [University of Washington](http://uw.edu)__.
 
 Whether estimating sea level rise due to ice sheet melting or forecasting  volcanic or tectonic unrest, the role of numerical simulations in our understanding of societally-relevant Earth system phenomena is fundamental. I use geophysical observations to validate the processes represented in these societally-relevant, physics-based models.  Such  models must reflect the real world; that is, they must be valid.  Yet strict model validation is not as common as it ought to be.  Validation is hard because it is interdisciplinary: it is the intersection of  data and models and of observation and theory.  My overarching goal --to consistently understand, observe, and model societally-relevant Earth system phenomena-- is documented in the scientific publications, teaching resources, and software presented on this website.
 
@@ -23,7 +23,9 @@ Several themes and highlights of my research program include:
 
 
 
-Student co-advisees:  Seth Olinger, Expected Graduation Spring 2023. [Harvard Website](https://eps.harvard.edu/people/seth-olinger), [Personal Website](https://setholinger.github.io/), [Github](http://github.com/setholinger).
+Graduate Student Advisees:  Seth Olinger, Expected Graduation Spring 2023 (Harvard). [Harvard Website](https://eps.harvard.edu/people/seth-olinger), [Personal Website](https://setholinger.github.io/), [Github](http://github.com/setholinger).
+
+Undergraduate Student Advisees: Victoria Johnson, Expected Graduation Spring 2021 (UW). [Github](https://github.com/v-johnson).
 
 Collaborators: [Rick Aster](https://sites.warnercnr.colostate.edu/aster/),  [Eric Dunham](https://pangea.stanford.edu/~edunham/),  [Gareth Funning](http://www.garethfunning.com/), [Florent Gimbert](http://pp.ige-grenoble.fr/annuaire/annuaire-osug-ige/gimbertf.htm), [Dominik Gräff](http://www.vaw.ethz.ch/en/people/person-detail.html?persid=235960), [Hilmar Gudmundsson](https://www.northumbria.ac.uk/about-us/our-staff/g/g-hilmar-gudmundsson/),  [Niels Hovius](https://www.gfz-potsdam.de/en/staff/niels-hovius/), [Dylan Mikesell](https://earth.boisestate.edu/people/dylanmikesell/), [Brent Minchew](https://eapsweb.mit.edu/people/minchew), [Christine McCarthy](https://www.ldeo.columbia.edu/user/mccarthy), [Colin Meyer](https://engineering.dartmouth.edu/people/faculty/colin-meyer), [Aurélien Mordret](https://sites.google.com/site/aurelienmordretswebpage/home?authuser=0), [Seth Olinger](https://eps.harvard.edu/people/seth-olinger), [Alan Rempel](https://pages.uoregon.edu/rempel/),  [Anne Schöpa](https://www.gfz-potsdam.de/en/staff/anne-schoepa/sec51/), [Catherine Walker](https://www.whoi.edu/profile/cwalker/), [Fabian Walter](http://www.vaw.ethz.ch/en/people/person-detail.MTI0OTY2.TGlzdC8xOTYxLDE1MTczNjI1ODA=.html), [Doug Wiens](https://eps.wustl.edu/people/douglas-wiens), and [Lucas Zoet](http://geoscience.wisc.edu/geoscience/people/faculty/lucas-zoet/). 
 
