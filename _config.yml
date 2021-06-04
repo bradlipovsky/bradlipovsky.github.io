@@ -82,8 +82,8 @@ analytics:
 author:
   name             : #"Your Sidebar Name"
   avatar           :  "LipovskyMugshot_square.jpg"
-  bio              : 
-  location         : 
+  bio              : "I am an [assistant professor](https://www.ess.washington.edu/people/profile.php?pid=lipovsky--brad) in the [Department of Earth and Space Sciences](http://ess.uw.edu).
+  location         : "Seattle, WA"
   employer         : "University of Washington"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=QLRsDhMAAAAJ&hl=en"
