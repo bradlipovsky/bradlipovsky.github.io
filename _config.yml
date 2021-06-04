@@ -83,8 +83,8 @@ author:
   name             : #"Your Sidebar Name"
   avatar           :  "LipovskyMugshot_square.jpg"
   bio              : 
-  location         : "Harvard University"
-  employer         :
+  location         : 
+  employer         : "University of Washington"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=QLRsDhMAAAAJ&hl=en"
   email            :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : 
+  linkedin         : "brad-lipovsky-76a00719"
+  orcid            : "0000-0003-4940-0745"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "brad_lipovsky"
   vine             :
   weibo            :
   xing             :
