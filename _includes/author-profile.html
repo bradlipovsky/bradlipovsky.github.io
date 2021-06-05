@@ -13,10 +13,14 @@
     	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
     {% endif %}
   </div>
-
-  <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }} </p>{% endif %}
+  
+    <div class="author__content">
+    <h3 class="author__name" itemprop="name">{{ author.name }}</h3>
+    {% if author.bio %}
+      <p class="author__bio" itemprop="description">
+        {{ author.bio }}
+      </p>
+    {% endif %}
   </div>
 
   <div class="author__urls-wrapper">
