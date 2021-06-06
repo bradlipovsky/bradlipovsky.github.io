@@ -11,6 +11,8 @@ redirect_from:
 
 I use geophysics and computation to understand the Earth.  
 
+I am an [Assistant Professor](https://www.ess.washington.edu/people/profile.php?pid=lipovsky--brad) in the [Department of Earth and Space Sciences](http://ess.uw.edu) at the [University of Washington](http://washington.edu).
+
 # Interests
 
 * __Ice shelf fracture__ and its relationship to marine ice sheet stability,
