@@ -17,11 +17,11 @@ I am an [Assistant Professor](https://www.ess.washington.edu/people/profile.php?
 
 ## Interests
 
-* __Ice shelf fracture__ and its relationship to marine ice sheet stability,
-* Geophysical, and particularly seismic, observations of glacier sliding,
-* __Hydraulic fracturing__ in volcanoes, glaciers, and reservoirs,
-* __Landslide__ seismicity and early warning,
-* __Tectonic earthquake__ complexity and interaction with the fluid Earth.
+* __Ice shelf fracture__ and its relationship to marine ice sheet stability
+* Geophysical, and particularly seismic, observations of __glacier sliding__
+* __Hydraulic fracturing__ in volcanoes, glaciers, and reservoirs
+* __Landslide physics__, seismicity, and early warning
+* __Tectonic earthquake__ complexity and interaction with the fluid Earth
 
 
 
