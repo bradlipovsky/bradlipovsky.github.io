@@ -27,7 +27,7 @@ I use geophysics and computation to understand the Earth.
 - John-Morgan Manos (expected start Summer 2021)
 - Jonathan Gates (expected start Fall 2021)
 
-# Undergraduate Student Advisees: 
+# Undergraduate Student Advisees
 - Victoria Johnson, Expected Graduation Spring 2021 (UW). [Github](https://github.com/v-johnson).
 - Amanda Syamsul, Expected Graduation Spring 2023 (UW)
 
