@@ -13,7 +13,7 @@ I use geophysics and computation to understand the Earth.
 
 I am an [Assistant Professor](https://www.ess.washington.edu/people/profile.php?pid=lipovsky--brad) in the [Department of Earth and Space Sciences](http://ess.uw.edu) at the [University of Washington](http://washington.edu).
 
-**Our group is hiring.** If you're interested in undergraduate, graduate, or postdoctoral positions, [please email me](bpl7@uw.edu).
+**Our group is hiring.** If you're interested in undergraduate, graduate, or postdoctoral positions, [please email me](mailto://bpl7@uw.edu).
 
 ## Interests
 
