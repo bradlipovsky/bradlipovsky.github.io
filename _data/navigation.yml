@@ -12,8 +12,8 @@ main:
   - title: "Codes"
     url: https://github.com/bradlipovsky
         
-#  - title: "Blog Posts"
-#    url: /year-archive/
+  - title: "Group Members"
+    url: /people/
     
   - title: "CV"
     url: /files/cv.pdf
