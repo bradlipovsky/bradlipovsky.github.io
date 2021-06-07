@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Principal Investigator
-Brad Lipovsky. [CV](/files/cv.pdf), [UW Website](https://www.ess.washington.edu/people/profile.php?pid=lipovsky--brad).
+Brad Lipovsky, [CV](/files/cv.pdf), [UW Website](https://www.ess.washington.edu/people/profile.php?pid=lipovsky--brad).
 
 ## Graduate Student Advisees
 - Seth Olinger, Expected Graduation Spring 2023 (Harvard). Ice shelf fracture and seismicity. [Harvard Website](https://eps.harvard.edu/people/seth-olinger), [Personal Website](https://setholinger.github.io/), [Github](http://github.com/setholinger).
