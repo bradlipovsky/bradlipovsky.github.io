@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-The environmental geophysics and computation research group in the [Department of Earth and Space Sciences](http://ess.uw.edu) at the [University of Washington](http://washington.edu) is lead by [Brad Lipovsky](https://www.ess.washington.edu/people/profile.php?pid=lipovsky--brad) .
+The environmental geophysics and computation research group in the [Department of Earth and Space Sciences](http://ess.uw.edu) at the [University of Washington](http://washington.edu) is lead by [Brad Lipovsky](https://www.ess.washington.edu/people/profile.php?pid=lipovsky--brad). Learn more about our [group vision](https://github.com/bradlipovsky/group-vision/blob/main/group-vision.md).
 
 **Our group is hiring.** If you're interested in undergraduate, graduate, or postdoctoral positions, [please reach out](mailto://bpl7@uw.edu).
 
