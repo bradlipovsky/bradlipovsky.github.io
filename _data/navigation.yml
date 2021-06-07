@@ -15,8 +15,8 @@ main:
   - title: "People"
     url: /people/
     
-  - title: "CV"
-    url: /files/cv.pdf
+#   - title: "CV"
+#     url: /files/cv.pdf
     
 #  - title: "Guide"
 #    url: /markdown/
