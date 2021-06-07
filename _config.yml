@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bradley Paul Lipovsky"
+title                    : "Environmental Geophysics and Computation"
 title_separator          : "-"
 name                     : &name "Bradley Paul Lipovsky"
 description              : &description "personal description"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : #"Your Sidebar Name"
-  avatar           :  "LipovskyMugshot_square.jpg"
-  bio              : "Environmental Geophysics and Computation"
+  avatar           :  "mountains-and-oceans.jpg"
+  bio              : 
   location         : "Seattle, WA"
   employer         : "University of Washington"
   pubmed           : 
