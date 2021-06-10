@@ -12,7 +12,7 @@ Assistant Professor in the Department of Earth and Space Sciences, University of
 [CV](/files/cv.pdf), [UW Website](https://www.ess.washington.edu/people/profile.php?pid=lipovsky--brad), [LinkedIn](https://www.linkedin.com/in/brad-lipovsky-76a00719), [ORCID](https://orcid.org/0000-0003-4940-0745), [Google Scholar](https://scholar.google.com/citations?user=QLRsDhMAAAAJ&hl=en).
 
 ## Postdocs
-- Ash Morris (expected start Septemvber 2021)
+- Ash Morris (expected start September 2021)
 
 ## Graduate Students
 - Seth Olinger, Expected Graduation Spring 2023 (Harvard). Ice shelf fracture and seismicity. [Harvard Website](https://eps.harvard.edu/people/seth-olinger), [Personal Website](https://setholinger.github.io/), [Github](http://github.com/setholinger).
