@@ -16,7 +16,7 @@ Assistant Professor in the Department of Earth and Space Sciences, University of
 
 ## Graduate Students
 - Seth Olinger, Expected Graduation Spring 2023 (Harvard). Ice shelf fracture and seismicity. [Harvard Website](https://eps.harvard.edu/people/seth-olinger), [Personal Website](https://setholinger.github.io/), [Github](http://github.com/setholinger).
-- Parker Sprinkle, [GitHub](https://parkersprinkle.github.io/)
+- Parker Sprinkle, [Personal Website](https://parkersprinkle.github.io/)
 - John-Morgan Manos
 - Jonathan Gates (expected start Fall 2021)
 
