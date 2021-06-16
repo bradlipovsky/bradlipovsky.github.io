@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Brad Lipovsky
+## Assistant Professor Brad Lipovsky
 Assistant Professor in the Department of Earth and Space Sciences, University of Washington
 [CV](/files/cv.pdf), [UW Website](https://www.ess.washington.edu/people/profile.php?pid=lipovsky--brad), [LinkedIn](https://www.linkedin.com/in/brad-lipovsky-76a00719), [ORCID](https://orcid.org/0000-0003-4940-0745), [Google Scholar](https://scholar.google.com/citations?user=QLRsDhMAAAAJ&hl=en).
 
@@ -16,8 +16,8 @@ Assistant Professor in the Department of Earth and Space Sciences, University of
 
 ## Graduate Students
 - Seth Olinger, Expected Graduation Spring 2023 (Harvard). Ice shelf fracture and seismicity. [Harvard Website](https://eps.harvard.edu/people/seth-olinger), [Personal Website](https://setholinger.github.io/), [Github](http://github.com/setholinger).
-- Parker Sprinkle (expected start Summer 2021)
-- John-Morgan Manos (expected start Summer 2021)
+- Parker Sprinkle [GitHub](https://parkersprinkle.github.io/)
+- John-Morgan Manos
 - Jonathan Gates (expected start Fall 2021)
 
 ## Undergraduate Students
