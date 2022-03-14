@@ -12,7 +12,7 @@ The environmental geophysics and computation research group in the [Department o
 
 **Our group is hiring.** If you're interested in undergraduate, graduate, or postdoctoral positions, [please reach out](mailto://bpl7@uw.edu).
 
-We study a wide range of environemental systems with an eye towards the unique ability of academic research to benefit humanity through fundamental research.  Recent areas of interest include,
+We study a wide range of environmental systems with an eye towards the unique ability of academic research to benefit humanity through fundamental research.  Recent areas of interest include,
 
 * __Ice shelf fracture__ and its relationship to marine ice sheet stability
 * Geophysical, and particularly seismic, observations of __glacier sliding__
