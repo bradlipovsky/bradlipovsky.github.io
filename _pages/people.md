@@ -12,14 +12,14 @@ Assistant Professor in the Department of Earth and Space Sciences, University of
 [CV](/files/cv.pdf), [UW Website](https://www.ess.washington.edu/people/profile.php?pid=lipovsky--brad), [LinkedIn](https://www.linkedin.com/in/brad-lipovsky-76a00719), [ORCID](https://orcid.org/0000-0003-4940-0745), [Google Scholar](https://scholar.google.com/citations?user=QLRsDhMAAAAJ&hl=en).
 
 ## Postdocs
-- Ash Morris, expected start September 2021.
-- Dominik Gräff, expected start January 2022, [ETH Website](https://vaw.ethz.ch/en/people/person-detail.html?persid=235960).
+- Ash Morris, the ICESat-2 Antarctic Rift Catalog
+- Dominik Gräff
 
 ## Graduate Students
 - Seth Olinger, Expected Graduation Spring 2023 (Harvard). Ice shelf fracture and seismicity. [Harvard Website](https://eps.harvard.edu/people/seth-olinger), [Personal Website](https://setholinger.github.io/), [Github](http://github.com/setholinger).
 - Parker Sprinkle, Enhanced Geothermal Systems, [Personal Website](https://parkersprinkle.github.io/)
 - John-Morgan Manos, Geophysical observations of glacier surface hydrology
-- Jonathan Gates (expected start Fall 2021)
+- Simon Hans Edasi, Glaciers, data science, and machine learning, [UW Website](https://www.ess.washington.edu/people/profile.php?pid=anderson--simon-), [LinkedIn](https://www.linkedin.com/in/simon-hans-edasi-9a3555a8/), [Github](https://github.com/simonhansedasi).
 
 ## Postbaccalaureate researchers
 - Victoria Johnson, Glacier seismology. [Github](https://github.com/v-johnson).
