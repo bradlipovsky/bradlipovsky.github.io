@@ -13,7 +13,7 @@ Assistant Professor in the Department of Earth and Space Sciences, University of
 
 ## Postdocs
 - Ash Morris, the ICESat-2 Antarctic Rift Catalog, [UW Website](https://www.ess.washington.edu/people/profile.php?pid=morris--richard-ashley)
-- Dominik Gräff
+- Dominik Gräff, Distributed Acoustic Sensing (DAS) in Greenland
 
 ## Graduate Students
 - Steph Olinger, Expected Graduation Spring 2023 (Harvard). Ice shelf fracture and seismicity. [Harvard Website](https://eps.harvard.edu/people/seth-olinger), [Personal Website](https://stepholinger.github.io/), [Github](http://github.com/setholinger).
