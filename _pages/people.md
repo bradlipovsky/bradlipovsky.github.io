@@ -16,7 +16,7 @@ Assistant Professor in the Department of Earth and Space Sciences, University of
 - Dominik Gräff, Distributed Acoustic Sensing (DAS) in Greenland
 
 ## Graduate Students
-- Steph Olinger, Expected Graduation Spring 2023 (Harvard). Ice shelf fracture and seismicity. [Harvard Website](https://eps.harvard.edu/people/seth-olinger), [Personal Website](https://stepholinger.github.io/), [Github](http://github.com/setholinger).
+- Steph Olinger, Expected Graduation Spring 2023 (Harvard). Ice shelf fracture and seismicity. [Harvard Website](https://eps.harvard.edu/people/seth-olinger), [Personal Website](https://stepholinger.github.io/), [Github](http://github.com/stepholinger).
 - Parker Sprinkle, Enhanced Geothermal Systems, [Personal Website](https://parkersprinkle.github.io/)
 - John-Morgan Manos, Geophysical observations of glacier surface hydrology, [UW Website](http://www.ess.washington.edu/content/people/profile.php?pid=manos--john-morgan), [LinkedIn](https://www.linkedin.com/in/john-morgan-manos-a5a5b0196/), [Personal Website](https://johnmorganmanos.github.io/)
 - Simon Hans Edasi, Glaciers, data science, and machine learning, [UW Website](https://www.ess.washington.edu/people/profile.php?pid=anderson--simon-), [LinkedIn](https://www.linkedin.com/in/simon-hans-edasi-9a3555a8/), [Github](https://github.com/simonhansedasi).
