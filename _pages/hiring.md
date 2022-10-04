@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "Hiring"
+title: "Open Positions in Our Group"
 permalink: /hiring/
 author_profile: true
 ---
 
 {% include base_path %}
 
-#Open Positions in Our Group
 
 ## Postdoctoral Scholars
 We are currently searching for a postdoctoral scholar. [Link to description](https://docs.google.com/document/d/1ldFUu_svRoTeWdgn4E-hS5Y9855Ryro6dSyUcC8guuw/edit#)
