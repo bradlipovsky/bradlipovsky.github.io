@@ -12,7 +12,7 @@ Assistant Professor in the Department of Earth and Space Sciences, University of
 [CV](/files/cv.pdf), [UW Website](https://www.ess.washington.edu/people/profile.php?pid=lipovsky--brad), [LinkedIn](https://www.linkedin.com/in/brad-lipovsky-76a00719), [ORCID](https://orcid.org/0000-0003-4940-0745), [Google Scholar](https://scholar.google.com/citations?user=QLRsDhMAAAAJ&hl=en).
 
 ## Postdocs
-- Ash Morris, the ICESat-2 Antarctic Rift Catalog, [UW Website](https://www.ess.washington.edu/people/profile.php?pid=morris--richard-ashley)
+- Ash Morris, the ICESat-2 Antarctic Rift Catalog, [UW Website](https://www.ess.washington.edu/people/profile.php?pid=morris--richard-ashley), [Google Scholar](https://scholar.google.com/citations?user=nFsBplQAAAAJ&hl=en&oi=sra).
 - Dominik Gräff, Distributed Acoustic Sensing (DAS) in Greenland
 
 ## Graduate Students
