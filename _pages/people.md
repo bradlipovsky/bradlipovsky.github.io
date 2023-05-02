@@ -13,7 +13,7 @@ Assistant Professor in the Department of Earth and Space Sciences, University of
 
 ## Postdocs
 - Ash Morris, the ICESat-2 Antarctic Rift Catalog, [UW Website](https://www.ess.washington.edu/people/profile.php?pid=morris--richard-ashley), [Google Scholar](https://scholar.google.com/citations?user=nFsBplQAAAAJ&hl=en&oi=sra).
-- Dominik Gräff, Distributed Acoustic Sensing (DAS) in Greenland
+- Dominik Gräff, Distributed Acoustic Sensing (DAS) in Greenland, [UW Website](https://www.ess.washington.edu/people/profile.php?pid=graeff--dominik), [Google Scholar](https://scholar.google.com/citations?user=pyCISyYAAAAJ&hl=en&oi=ao)
 - Ethan Williams, Seismology, Distributed Acoustic Sensing, Physical Oceanography, and Marine Geology. [UW Website](https://www.ess.washington.edu/people/profile.php?pid=williams--ethan), [Google Scholar](https://scholar.google.com/citations?user=TJKGjiUAAAAJ&hl=en&oi=ao) 
 - Chris Miele, Hydraulic Fracturing of Antarctic Ice Shelves, Machine Learning. [UW Website](ess.uw.edu)
 
