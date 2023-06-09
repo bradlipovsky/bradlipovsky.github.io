@@ -22,4 +22,4 @@ We study a wide range of environemental systems with an eye towards the unique a
 * __Subsea hydroacoustic wave propagation__
 * Novel measurements of __volcanic unrest__
 
-Methodologically, optical fiber geophysics is a major focus of our group. We are interested in Distributed Acoustic Sensing (DAS) as well as other technologies.  Our group runs the University of Washington [Fiber Lab](http://psf.uw.edu).
+Methodologically, optical fiber geophysics is a major focus of our group. We are interested in Distributed Acoustic Sensing (DAS) as well as other technologies.  Our group runs the University of Washington [Fiber Lab](http://fiberlab.uw.edu).
