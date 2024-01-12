@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Environmental Geophysics and Computation"
+title                    : "Brad Lipovsky: Environment, Geophysics, and Computation"
 title_separator          : "-"
 name                     : &name "Bradley Paul Lipovsky"
 description              : &description "personal description"
