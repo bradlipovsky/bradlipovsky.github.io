@@ -19,17 +19,17 @@ Rifts are enormous (100 km+) fractures that cut through the floating ice shelves
 - The effect of ocean swell (6,14), tides (18), and other environmental forcing in understanding ice shelf fracture
 - The dynamics of hydraulic fractures in ice shelves and other systems (2)
 
-## Optical fiber geophysics, including Distributed Acoustic Sensing (DAS)
+## 🌎 Optical fiber geophysics, including Distributed Acoustic Sensing (DAS)
 Optical fiber sensing is a major focus of our group. We are interested in Distributed Acoustic Sensing (DAS) as well as other technologies.  Our group runs the University of Washington [Fiber Lab](http://fiberlab.uw.edu). We have applied these techniques in several ways:
 - DAS measurements of glacier melt (29)
 - DAS observations of subglacial conditions (21)
 - DAS observations of submarine, acoustics including marine mammal volcalizations (20,22)
 - Methods for storing and efficiently accessing large-scale DAS datasets (23)
 
-## Glacier Dynamics 
+## 🧊 Glacier Dynamics 
 - The relationship between glacier sliding and basal icequakes (3,10,16,19)
 - Glacier slow slip events (5,15)
 - Seismic observations of subglacial water flow (9)
 
-## Other projects
+## 📈 Other projects
 We've published broadly on topics including landslides (7,12), tectonic earthquakes (1,26), and volcanic activity (2).
