@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <div style="border: 2px solid red; padding: 10px;">
-It's Graduate Admissions Season! 🎓 Working with graduate students on their awesome research projects is one of the best parts of my job 🤩. This year, I've decided to hold virtual office hours to address any questions about graduate admissions. Sign up is live; please do forward this information widely 📨 [LINK](https://docs.google.com/forms/d/e/1FAIpQLSdhraYqzWE33AIuCPiLdknDXMlrjTI-j3BWlSgQPZUQIROY-w/viewform).
+It's Graduate Admissions Season! 🎓 Working with graduate students on their awesome research projects is one of the best parts of my job 🤩. This year, I've decided to hold virtual office hours to address any questions about graduate admissions. Sign up is live; please do forward this information widely 📨 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdhraYqzWE33AIuCPiLdknDXMlrjTI-j3BWlSgQPZUQIROY-w/viewform">link</a>.
 
 The office hours should provide a more equitable approach compared to responding to individual emails. Specifically, I hope this will give folks who aren't familiar with graduate admissions the benefit of hearing questions from and interacting with folks who have more experience with this process.
 </div>
