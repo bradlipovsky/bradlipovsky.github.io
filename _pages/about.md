@@ -11,7 +11,7 @@ redirect_from:
 It's Graduate Admissions Season! 🎓 Working with graduate students on their awesome research projects is one of the best parts of my job 🤩. This year, I've decided to hold virtual office hours to address any questions about graduate admissions. Sign up is live; please do forward this information widely 📨 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdhraYqzWE33AIuCPiLdknDXMlrjTI-j3BWlSgQPZUQIROY-w/viewform">link</a>.
 
 The office hours should provide a more equitable approach compared to responding to individual emails. Specifically, I hope this will give folks who aren't familiar with graduate admissions the benefit of hearing questions from and interacting with folks who have more experience with this process.
-</div>
+</div><br>
 
 I am [Brad Lipovsky](https://www.ess.washington.edu/people/profile.php?pid=lipovsky--brad), a geophysicist who studies both fundamental and hazards-related earth, environmental, and planetary processes. I run the Lipovsky research group in the [Department of Earth and Space Sciences](http://ess.uw.edu) at the [University of Washington](http://washington.edu). Learn more about our [group vision](https://github.com/bradlipovsky/group-vision/blob/main/group-vision.md) and our [group members](https://bradlipovsky.github.io/people/).
 
