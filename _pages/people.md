@@ -20,8 +20,7 @@ Assistant Professor in the Department of Earth and Space Sciences, University of
 ## Graduate Students
 - Parker Sprinkle, Enhanced Geothermal Systems, [Personal Website](https://parkersprinkle.github.io/)
 - John-Morgan Manos, Geophysical observations of glacier surface hydrology, [UW Website](http://www.ess.washington.edu/content/people/profile.php?pid=manos--john-morgan), [LinkedIn](https://www.linkedin.com/in/john-morgan-manos-a5a5b0196/), [Personal Website](https://johnmorganmanos.github.io/)
-- Simon Hans Edasi, Glaciers, data science, and machine learning, [UW Website](https://www.ess.washington.edu/people/profile.php?pid=anderson--simon-), [LinkedIn](https://www.linkedin.com/in/simon-hans-edasi-9a3555a8/), [Github](https://github.com/simonhansedasi).
-- Veronica Gaete Elgueta, Distributed Acoustic Sensing and Volcanoes. Started at UW in the Fall of 2022.
+- Veronica Gaete Elgueta, Distributed Acoustic Sensing and Volcanoes. Started at UW in the Fall of 2022 [UW Website](https://ess.uw.edu/people/veronica-a-gaete-elgueta/).
 
 ## Undergraduate and Postbaccalaureate researchers
 - Aiden Dealy, Expected Graduation in the Spring 2025
