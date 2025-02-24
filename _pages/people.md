@@ -9,18 +9,17 @@ author_profile: true
 
 ## Assistant Professor Brad Lipovsky
 Assistant Professor in the Department of Earth and Space Sciences, University of Washington
-[CV](/files/cv.pdf), [UW Website](https://www.ess.washington.edu/people/profile.php?pid=lipovsky--brad), [LinkedIn](https://www.linkedin.com/in/brad-lipovsky-76a00719), [ORCID](https://orcid.org/0000-0003-4940-0745), [Google Scholar](https://scholar.google.com/citations?user=QLRsDhMAAAAJ&hl=en).
+[CV](/files/cv.pdf), [UW Website](https://ess.washington.edu/people/brad-lipovsky), [LinkedIn](https://www.linkedin.com/in/brad-lipovsky-76a00719), [ORCID](https://orcid.org/0000-0003-4940-0745), [Google Scholar](https://scholar.google.com/citations?user=QLRsDhMAAAAJ&hl=en).
 
 ## Postdocs
-- Dominik Gräff, Distributed Acoustic Sensing (DAS) in Greenland, [UW Website](https://www.ess.washington.edu/people/profile.php?pid=graeff--dominik), [Google Scholar](https://scholar.google.com/citations?user=pyCISyYAAAAJ&hl=en&oi=ao)
-- Ethan Williams, Seismology, Distributed Acoustic Sensing, Physical Oceanography, and Marine Geology. [UW Website](https://www.ess.washington.edu/people/profile.php?pid=williams--ethan), [Google Scholar](https://scholar.google.com/citations?user=TJKGjiUAAAAJ&hl=en&oi=ao) 
-- Chris Miele, Hydraulic Fracturing of Antarctic Ice Shelves, Machine Learning. [UW Website](ess.uw.edu)
-- Qibin Shi, Distributed Acoustic Sensing, Tectonic Earthquakes, Earthquake Early Warning (EEW) systems [UW Website](https://ess.uw.edu/people/qibin-shi/), [Google Scholar](https://scholar.google.com/citations?user=CbR34PsAAAAJ&hl=en), [Github](https://github.com/qibinshi)
+- Dominik Gräff, Distributed Acoustic Sensing (DAS) in Greenland, [UW Website](https://ess.uw.edu/people/dominik-graff/), [Google Scholar](https://scholar.google.com/citations?user=pyCISyYAAAAJ&hl=en&oi=ao)
+- Ethan Williams, Seismology, Distributed Acoustic Sensing, Physical Oceanography, and Marine Geology. [UW Website](https://www.ess.washington.edu/people/ethan-williams), [Google Scholar](https://scholar.google.com/citations?user=TJKGjiUAAAAJ&hl=en&oi=ao) 
+- Chris Miele, Hydraulic Fracturing of Antarctic Ice Shelves, Machine Learning. [UW Website](http://ess.uw.edu/people/chris-miele)
 
 ## Graduate Students
-- Parker Sprinkle, Enhanced Geothermal Systems, [Personal Website](https://parkersprinkle.github.io/)
-- John-Morgan Manos, Geophysical observations of glacier surface hydrology, [UW Website](http://www.ess.washington.edu/content/people/profile.php?pid=manos--john-morgan), [LinkedIn](https://www.linkedin.com/in/john-morgan-manos-a5a5b0196/), [Personal Website](https://johnmorganmanos.github.io/)
-- Veronica Gaete Elgueta, Distributed Acoustic Sensing and Volcanoes. Started at UW in the Fall of 2022 [UW Website](https://ess.uw.edu/people/veronica-a-gaete-elgueta/).
+- Parker Sprinkle, Nuclear Nonproliferation, Enhanced Geothermal Systems, [Personal Website](https://parkersprinkle.github.io/)
+- John-Morgan Manos, Geophysical observations of glacier surface hydrology, [UW Website](https://ess.uw.edu/people/john-morgan-manos/), [LinkedIn](https://www.linkedin.com/in/john-morgan-manos-a5a5b0196/), [Personal Website](https://johnmorganmanos.github.io/), [GitHub](https://github.com/johnmorganmanos)
+- Veronica Gaete Elgueta, Distributed Acoustic Sensing and Volcanoes. Started at UW in the Fall of 2022 [UW Website](https://ess.uw.edu/people/veronica-a-gaete-elgueta/), [GitHub](https://github.com/velgueta).
 
 ## Undergraduate and Postbaccalaureate researchers
 - Aiden Dealy, Expected Graduation in the Spring 2025
@@ -31,6 +30,7 @@ Assistant Professor in the Department of Earth and Space Sciences, University of
 
 
 ## Former group members
+- Qibin Shi, Distributed Acoustic Sensing, Tectonic Earthquakes, Earthquake Early Warning (EEW) systems, [Google Scholar](https://scholar.google.com/citations?user=CbR34PsAAAAJ&hl=en), [Github](https://github.com/qibinshi). Now a postdoc at Rice University.
 - Ash Morris, the ICESat-2 Antarctic Rift Catalog, [Google Scholar](https://scholar.google.com/citations?user=nFsBplQAAAAJ&hl=en&oi=sra). Now Remote Sensing Officer, SIOS-KC, Svalbard.
 - Steph Olinger, PhD. Ice shelf fracture and seismicity.  [Personal Website](https://stepholinger.github.io/), [Github](http://github.com/stepholinger). Now Thompson Postdoctoral Fellow, Stanford University.
 - Amanda Syamsul, Graduation in Spring 2023. Now a PhD student at UCSC.
