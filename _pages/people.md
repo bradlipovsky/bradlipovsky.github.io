@@ -14,7 +14,6 @@ Assistant Professor in the Department of Earth and Space Sciences, University of
 ## Postdocs
 - Dominik Gräff, Distributed Acoustic Sensing (DAS) in Greenland, [UW Website](https://ess.uw.edu/people/dominik-graff/), [Google Scholar](https://scholar.google.com/citations?user=pyCISyYAAAAJ&hl=en&oi=ao)
 - Ethan Williams, Seismology, Distributed Acoustic Sensing, Physical Oceanography, and Marine Geology. [UW Website](https://www.ess.washington.edu/people/ethan-williams), [Google Scholar](https://scholar.google.com/citations?user=TJKGjiUAAAAJ&hl=en&oi=ao) 
-- Chris Miele, Hydraulic Fracturing of Antarctic Ice Shelves, Machine Learning. [UW Website](http://ess.uw.edu/people/chris-miele)
 
 ## Graduate Students
 - Parker Sprinkle, Nuclear Nonproliferation, Enhanced Geothermal Systems, [Personal Website](https://parkersprinkle.github.io/)
@@ -23,13 +22,11 @@ Assistant Professor in the Department of Earth and Space Sciences, University of
 
 ## Undergraduate and Postbaccalaureate researchers
 - Aiden Dealy, Expected Graduation in the Spring 2025
-- Cody Cruz, Expected Graduation in the Spring of 2025
-
-## Research Coordinator
-- Katelyn Schoedl
 
 
 ## Former group members
+- Cody Cruz, former undergraduate researcher, starting the MIT-WHOI joint program in Oceanography in the Fall of 2025.
+- Chris Miele, Hydraulic Fracturing of Antarctic Ice Shelves, Machine Learning. Now a researcher at [Utrecht University](https://www.uu.nl/staff/CMBezu).
 - Qibin Shi, Distributed Acoustic Sensing, Tectonic Earthquakes, Earthquake Early Warning (EEW) systems, [Google Scholar](https://scholar.google.com/citations?user=CbR34PsAAAAJ&hl=en), [Github](https://github.com/qibinshi). Now a postdoc at Rice University.
 - Ash Morris, the ICESat-2 Antarctic Rift Catalog, [Google Scholar](https://scholar.google.com/citations?user=nFsBplQAAAAJ&hl=en&oi=sra). Now Remote Sensing Officer, SIOS-KC, Svalbard.
 - Steph Olinger, PhD. Ice shelf fracture and seismicity.  [Personal Website](https://stepholinger.github.io/), [Github](http://github.com/stepholinger). Now Thompson Postdoctoral Fellow, Stanford University.
