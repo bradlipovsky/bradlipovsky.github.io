@@ -13,18 +13,21 @@ Assistant Professor in the Department of Earth and Space Sciences, University of
 
 ## Postdocs
 - Dominik Gräff, Distributed Acoustic Sensing (DAS) in Greenland, [UW Website](https://ess.uw.edu/people/dominik-graff/), [Google Scholar](https://scholar.google.com/citations?user=pyCISyYAAAAJ&hl=en&oi=ao)
-- Ethan Williams, Seismology, Distributed Acoustic Sensing, Physical Oceanography, and Marine Geology. [UW Website](https://www.ess.washington.edu/people/ethan-williams), [Google Scholar](https://scholar.google.com/citations?user=TJKGjiUAAAAJ&hl=en&oi=ao) 
+- Steph Olinger, UW Comotion Postdoctoral Entrepreneurial Program Fellow, [LinkedIn](https://www.linkedin.com/in/stephanie-olinger-phd-0496a3251/), [UW Website](https://comotion.uw.edu/team_members/stephanie-olinger/), [Personal Website](https://stepholinger.github.io/).
 
 ## Graduate Students
+- Will Dienstfrey, Distributed Acoustic Sensing and Imaging, [Google Scholar](https://scholar.google.com/citations?user=7OapB7AAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/will-dienstfrey-532bb4279/)
 - Parker Sprinkle, Nuclear Nonproliferation, Enhanced Geothermal Systems, [Personal Website](https://parkersprinkle.github.io/)
 - John-Morgan Manos, Geophysical observations of glacier surface hydrology, [UW Website](https://ess.uw.edu/people/john-morgan-manos/), [LinkedIn](https://www.linkedin.com/in/john-morgan-manos-a5a5b0196/), [Personal Website](https://johnmorganmanos.github.io/), [GitHub](https://github.com/johnmorganmanos)
 - Veronica Gaete Elgueta, Distributed Acoustic Sensing and Volcanoes. Started at UW in the Fall of 2022 [UW Website](https://ess.uw.edu/people/veronica-a-gaete-elgueta/), [GitHub](https://github.com/velgueta).
 
-## Undergraduate and Postbaccalaureate researchers
-- Aiden Dealy, Expected Graduation in the Spring 2025
+## Undergraduate Students
+- Brian Arreola, FiberLab Assistant
 
 
 ## Former group members
+- Ethan Williams, former postdoc. Now faculty at U.C. Santa Cruz. [Website](https://ethanfwilliams.github.io/)
+- Aiden Dealy, former undergraduate researcher. Now a graduate student at Duke University.
 - Cody Cruz, former undergraduate researcher, starting the MIT-WHOI joint program in Oceanography in the Fall of 2025.
 - Chris Miele, Hydraulic Fracturing of Antarctic Ice Shelves, Machine Learning. Now a researcher at [Utrecht University](https://www.uu.nl/staff/CMBezu).
 - Qibin Shi, Distributed Acoustic Sensing, Tectonic Earthquakes, Earthquake Early Warning (EEW) systems, [Google Scholar](https://scholar.google.com/citations?user=CbR34PsAAAAJ&hl=en), [Github](https://github.com/qibinshi). Now a postdoc at Rice University.
