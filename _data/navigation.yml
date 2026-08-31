@@ -1,22 +1,13 @@
-# main links links
 main:
-  - title: "Publications"
-    url: https://scholar.google.com/citations?user=QLRsDhMAAAAJ&hl=en
-
-#  - title: "Talks"
-#    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Codes"
-    url: https://github.com/bradlipovsky
-        
+  - title: "Research"
+    url: /research/
   - title: "People"
     url: /people/
-    
-#   - title: "CV"
-#     url: /files/cv.pdf
-    
-  - title: "UW Fiber Lab"
-    url: https://fiberlab.uw.edu
+  - title: "Publications"
+    url: /publications/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Opportunities"
+    url: /opportunities/
+  - title: "CV"
+    url: /cv/

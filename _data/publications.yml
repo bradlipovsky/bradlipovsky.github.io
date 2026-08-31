@@ -1,0 +1,84 @@
+- year: 2026
+  title: "Tidewater and lake-terminating glaciers are systematically thicker"
+  authors: "Simon-Hans Edasi and Bradley P. Lipovsky"
+  venue: "Journal of Glaciology"
+  url: "https://doi.org/10.1017/jog.2026.10123"
+  featured: true
+  note: "Mentee-led work quantifying how ice–ocean interactions shape global glacier geometry."
+- year: 2026
+  title: "Fibre-optic exploration of the cryosphere"
+  authors: "Andreas Fichtner, Fabian Walter, Alex Brisbourne, Adam D. Booth, J. Michael Kendall, Thomas Hudson, Patrick Paitz, and Bradley P. Lipovsky"
+  venue: "Geophysical Journal International"
+  url: "https://doi.org/10.1093/gji/ggaf489"
+  featured: true
+  note: "A synthesis and open training resource for fiber-optic observations throughout the cryosphere."
+- year: 2026
+  title: "Creating a comprehensive cryoseismic catalog at Rhonegletscher: a scalable approach using distributed acoustic sensing and machine learning"
+  authors: "Rachel M. Willis et al., including Bradley P. Lipovsky"
+  venue: "Machine Learning: Earth"
+  url: "https://scholar.google.com/scholar?q=Creating+a+comprehensive+cryoseismic+catalog+at+Rhonegletscher"
+  note: "Scalable machine learning for dense, fiber-optic glacier observations."
+- year: 2025
+  title: "Calving-driven fjord dynamics resolved by seafloor fibre sensing"
+  authors: "Dominik Gräff et al., including Bradley P. Lipovsky"
+  venue: "Nature"
+  url: "https://doi.org/10.1038/s41586-025-09347-7"
+  featured: true
+  note: "Seafloor fiber sensing resolves how iceberg calving drives Greenland fjord dynamics."
+- year: 2025
+  title: "Ice shelf evolution combining flow, flexure, and fracture"
+  authors: "Chris Bézu, Bradley P. Lipovsky, Daniel R. Shapero, and Alison F. Banwell"
+  venue: "Journal of Glaciology"
+  url: "https://doi.org/10.1017/jog.2025.10089"
+  note: "A new open modeling framework coupling processes central to ice-shelf stability."
+- year: 2025
+  title: "Ice shelf calving due to shear stresses"
+  authors: "Ash Morris, Bradley P. Lipovsky, Catherine C. Walker, and Oliver J. Marsh"
+  venue: "The Cryosphere"
+  url: "https://doi.org/10.5194/tc-19-4303-2025"
+  note: "ICESat-2 observations and modeling of the Brunt Ice Shelf calving cycle."
+- year: 2025
+  title: "Multiplexed distributed acoustic sensing offshore Central Oregon"
+  authors: "Qibin Shi, Ethan F. Williams, Bradley P. Lipovsky, Marine A. Denolle, William S. D. Wilcock, Deborah S. Kelley, and Kristina Schoedl"
+  venue: "Seismological Research Letters"
+  url: "https://doi.org/10.1785/0220240460"
+  featured: true
+  note: "A lead-PI effort advancing large-scale seismic and ocean sensing on submarine cables."
+- year: 2024
+  title: "DAS to discharge: using distributed acoustic sensing to infer glacier runoff"
+  authors: "John-Morgan Manos, Dominik Gräff, Eileen R. Martin, et al., including Bradley P. Lipovsky"
+  venue: "Journal of Glaciology"
+  url: "https://doi.org/10.1017/jog.2024.46"
+  featured: true
+  note: "Mentee-led work turning glacier vibrations into measurements of meltwater discharge."
+- year: 2024
+  title: "Ocean coupling limits rupture velocity of fastest observed ice shelf rift propagation event"
+  authors: "Stephanie D. Olinger, Bradley P. Lipovsky, and Marine A. Denolle"
+  venue: "AGU Advances"
+  url: "https://doi.org/10.1029/2023AV001023"
+  featured: true
+  note: "A coupled fracture-mechanics and fluid-dynamics explanation for an extraordinary Antarctic rift event."
+- year: 2020
+  title: "Ice shelf rift propagation: stability, three-dimensional effects, and the role of marginal weakening"
+  authors: "Bradley P. Lipovsky"
+  venue: "The Cryosphere"
+  url: "https://doi.org/10.5194/tc-14-1673-2020"
+  note: "A mechanics-based framework for understanding the stability of Antarctic ice-shelf rifts."
+- year: 2018
+  title: "Ice shelf rift propagation and the mechanics of wave-induced fracture"
+  authors: "Bradley P. Lipovsky"
+  venue: "Journal of Geophysical Research: Oceans"
+  url: "https://doi.org/10.1029/2017JC013664"
+  note: "Quantifies when distant storms, tsunamis, and earthquakes can drive ice-shelf fracture."
+- year: 2016
+  title: "Tremor during ice-stream stick slip"
+  authors: "Bradley P. Lipovsky and Eric M. Dunham"
+  venue: "The Cryosphere"
+  url: "https://doi.org/10.5194/tc-10-385-2016"
+  note: "Links glacier tremor to repeating earthquakes at the ice–bed interface."
+- year: 2015
+  title: "Vibrational modes of hydraulic fractures"
+  authors: "Bradley P. Lipovsky and Eric M. Dunham"
+  venue: "Journal of Geophysical Research: Solid Earth"
+  url: "https://doi.org/10.1002/2014JB011286"
+  note: "Uses resonance to infer the geometry and fluid properties of hydraulic fractures."

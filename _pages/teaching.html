@@ -1,12 +1,58 @@
 ---
-layout: archive
+layout: page
 title: "Teaching"
+kicker: "From continuum mechanics to a changing cryosphere"
+description: "Courses and field experiences in mechanics, glaciology, hydrogeology, data science, and Earth systems."
 permalink: /teaching/
-author_profile: true
+wide: true
 ---
+<div class="intro-grid">
+  <p class="intro-grid__lead">The aim is not only to teach techniques, but to help students move confidently between governing physics, observations, computation, and the limits of what is known.</p>
+  <aside class="intro-grid__aside">
+    <p>Current teaching at UW spans undergraduate Earth systems and hydrogeology through upper-level and graduate mechanics and glaciology.</p>
+  </aside>
+</div>
 
-{% include base_path %}
+<div class="course-grid">
+  <article class="course-card">
+    <p class="course-card__meta">UW · 2025 and 2026</p>
+    <h2>ESS 454 · Hydrogeology</h2>
+    <p>Groundwater flow and transport through the lens of physical principles, geological structure, observations, and environmental applications.</p>
+  </article>
+  <article class="course-card">
+    <p class="course-card__meta">UW · 2021, 2023, and 2025</p>
+    <h2>ESS 411/511 · Continuum Mechanics</h2>
+    <p>Stress, strain, constitutive behavior, and conservation laws for Earth materials, with computation and applications across geophysics.</p>
+  </article>
+  <article class="course-card">
+    <p class="course-card__meta">UW · 2024</p>
+    <h2>ESS 431 · Glaciology</h2>
+    <p>The mechanics and climate context of glaciers and ice sheets, from mass balance and flow to sliding, fracture, and ice–ocean interaction.</p>
+  </article>
+  <article class="course-card">
+    <p class="course-card__meta">UW · 2022 and 2023</p>
+    <h2>ESS 107 · Introduction to the Cryosphere</h2>
+    <p>An accessible introduction to Earth’s frozen environments, their role in the climate system, and their rapid contemporary change.</p>
+  </article>
+  <article class="course-card">
+    <p class="course-card__meta">Harvard · 2019</p>
+    <h2>EPS 268 · Machine Learning Across Earth and Planetary Sciences</h2>
+    <p>A research seminar connecting modern data methods to scientific interpretation, reproducibility, and problems throughout Earth and planetary science.</p>
+    <a class="text-link" href="{{ '/teaching/2019-ml.html' | relative_url }}">Course archive</a>
+  </article>
+  <article class="course-card">
+    <p class="course-card__meta">Harvard · 2018</p>
+    <h2>EPS 253 · Glaciology</h2>
+    <p>A graduate mathematical-physics course on glacier flow, climate interactions, sliding, hydrology, ice shelves, and paleoclimate archives.</p>
+    <a class="text-link" href="{{ '/teaching/2018-glaciology.html' | relative_url }}">Notes and problem sets</a>
+  </article>
+</div>
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="callout">
+  <p class="eyebrow eyebrow--light">Open educational materials</p>
+  <h2>Learning works better when the machinery is visible.</h2>
+  <p>Selected notes, assignments, code, and course archives remain available for students and instructors.</p>
+  <div class="button-row">
+    <a class="button button--light" href="https://github.com/UW-geophysics-edu">UW Geophysics Education on GitHub</a>
+  </div>
+</div>

@@ -1,0 +1,45 @@
+{% assign page_title = page.title | default: site.title %}
+{% if page.url != '/' and page.title %}{% assign full_title = page_title | append: ' · ' | append: site.title %}{% else %}{% assign full_title = site.title | append: ' · Geophysicist' %}{% endif %}
+{% assign page_description = page.description | default: page.excerpt | default: site.description | strip_html | strip_newlines %}
+{% assign page_image = page.image | default: site.og_image %}
+{% assign canonical = page.url | replace: 'index.html', '' | absolute_url %}
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ full_title | escape }}</title>
+<meta name="description" content="{{ page_description | escape }}">
+<link rel="canonical" href="{{ canonical }}">
+<meta name="theme-color" content="#092f3b">
+<meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}">
+<meta property="og:locale" content="{{ site.locale | default: 'en_US' | replace: '-', '_' }}">
+<meta property="og:site_name" content="{{ site.title | escape }}">
+<meta property="og:title" content="{{ full_title | escape }}">
+<meta property="og:description" content="{{ page_description | escape }}">
+<meta property="og:url" content="{{ canonical }}">
+{% if page_image %}<meta property="og:image" content="{{ page_image | absolute_url }}">{% endif %}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ full_title | escape }}">
+<meta name="twitter:description" content="{{ page_description | escape }}">
+{% if page_image %}<meta name="twitter:image" content="{{ page_image | absolute_url }}">{% endif %}
+<link rel="icon" href="{{ '/images/favicon.ico' | relative_url }}" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ '/images/favicon-32x32.png' | relative_url }}">
+<link rel="apple-touch-icon" href="{{ '/images/apple-touch-icon.png' | relative_url }}">
+<link rel="manifest" href="{{ '/images/manifest.json' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+<script>document.documentElement.classList.remove('no-js');</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Bradley Paul Lipovsky",
+  "alternateName": "Brad Lipovsky",
+  "url": "{{ site.url }}",
+  "image": "{{ '/images/newheadshot.jpg' | absolute_url }}",
+  "jobTitle": "Assistant Professor of Earth and Space Sciences",
+  "affiliation": {
+    "@type": "CollegeOrUniversity",
+    "name": "University of Washington",
+    "url": "https://www.washington.edu/"
+  },
+  "sameAs": {{ site.social.links | jsonify }}
+}
+</script>

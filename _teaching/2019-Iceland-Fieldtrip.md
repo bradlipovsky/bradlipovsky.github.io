@@ -10,11 +10,11 @@ location: "Iceland"
 
 A week long fieldtrip to Iceland that emphasizes tectonics, glaciology, volcanology, climate, and Earth history.
 
-![Iceland Photo](https://bradlipovsky.github.io/images/IcelandPhoto.jpg)
+![Students and instructors beside a glacier in Iceland](/images/IcelandPhoto.jpg)
 
-# [Link to our route map](https://bradlipovsky.github.io/IcelandMap/)
+## [Route map](/IcelandMap/)
 
-# Preliminary Itinerary
+## Preliminary Itinerary
 ### August 24
 Depart Boston in the evening.  This is a red eye flight, you will not get a good nights sleep, so be well rested to start!  Flight info:  Iceland Air flight 630  24 AUG    Departs Boston     9:05 pm arrives  6:05 am +1day
 
@@ -37,7 +37,7 @@ We will spend a full day in Þórsmörk Valley. We will take some hikes around t
 After breakfast you will travel back to the asphalt and travel the south coast to Reykjanes Peninsula again. We will visit the worlds largest geothermal power plant on the way. We will be at the airport in time for your flight back.  Flight info: Iceland Air flight 631  30 AUG    Departs Reykjavik 5:15 pm arrives 6:50 pm 
 
 
-# Logistics
+## Logistics
 
 ### Lodging
 We will be staying at Hostel style accommodations.  Typically there are rooms with 3-four beds (possibly bunk beds), assigned by gender.  Bathrooms and showers are “down the hall”.    You might want to pack a light bath robe and slippers. Before the trip we will give you a list of the places we will be staying along with contact information.
@@ -60,7 +60,7 @@ We will have one large bus.  We will generally stop at least once every two hour
 
 
 Gear List
-==========
+---------
 Proper clothing and boots are essential. Be prepared for wet and cool to cold weather and intermittent intense sun. Temperatures will typically be in the 40’s to 50’s F with below freezing temperatures possible. Layering is key.  You will have to load and unload your bags from the bus every day.  So don't bring too much stuff.  We will get out of the bus for geology stops and short hikes regardless of weather. We will also do some longer hikes so good boots, and adequate rain/snow gear are essential.   You will not need “evening out” types of clothes as we're mostly going to be in the field.   
 - **sleeping bag -- the department will provide one if you indicated you’ll need one**
 - Day pack, large enough for lunch, rain gear, water bottle, sweater
@@ -90,4 +90,3 @@ Proper clothing and boots are essential. Be prepared for wet and cool to cold we
 - Sufficient T-shirts and underwear (there will be limited opportunities for laundry)
 - Hiking and sneaker socks, multiple pairs
 - Long underwear, bottoms and tops.
-

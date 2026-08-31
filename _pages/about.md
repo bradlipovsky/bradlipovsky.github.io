@@ -1,40 +1,202 @@
 ---
+layout: default
 permalink: /
-title: " "
-excerpt: " "
-author_profile: true
-redirect_from: 
+title: "Brad Lipovsky"
+description: "Brad Lipovsky develops new ways to observe and explain how Earth fractures, flows, and changes."
+image: /images/rift.jpg
+body_class: home
+redirect_from:
   - /about/
   - /about.html
 ---
-<!--<div style="border: 2px solid red; padding: 10px;">
-It's Graduate Admissions Season! 🎓 Working with graduate students on their awesome research projects is one of the best parts of my job 🤩. This year, I've decided to hold virtual office hours to address any questions about graduate admissions. Sign up is live; please do forward this information widely 📨 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdhraYqzWE33AIuCPiLdknDXMlrjTI-j3BWlSgQPZUQIROY-w/viewform">link</a>.
+<section class="home-hero" aria-labelledby="home-title">
+  <div class="home-hero__grid">
+    <div class="home-hero__content">
+      <p class="eyebrow eyebrow--light">Geophysicist · University of Washington</p>
+      <h1 id="home-title">New ways to see a changing planet.</h1>
+      <p class="home-hero__lede">Brad Lipovsky develops optical fiber observatories and physics-based models to reveal how Earth fractures, flows, and changes—from glacier beds and Antarctic ice shelves to volcanoes and the deep ocean.</p>
+      <div class="button-row">
+        <a class="button button--light" href="{{ '/research/' | relative_url }}">Explore the research</a>
+        <a class="button" href="{{ '/files/cv.pdf' | relative_url }}">Download CV</a>
+      </div>
+    </div>
+    <div class="home-hero__image">
+      <img src="{{ '/images/rift.jpg' | relative_url }}" alt="Aerial view of a vast rift cutting across an Antarctic ice shelf beside a research aircraft" width="1024" height="576">
+    </div>
+  </div>
+</section>
 
-The office hours should provide a more equitable approach compared to responding to individual emails. Specifically, I hope this will give folks who aren't familiar with graduate admissions the benefit of hearing questions from and interacting with folks who have more experience with this process.
-</div><br> -->
+<section class="impact-strip" aria-label="Research indicators">
+  <div class="shell impact-strip__grid">
+    <div class="impact-stat"><strong>37</strong><span>Peer-reviewed publications</span></div>
+    <div class="impact-stat"><strong>$6.7M</strong><span>Research funding raised since 2020¹</span></div>
+    <div class="impact-stat"><strong>16</strong><span>Funded projects and awards</span></div>
+    <div class="impact-stat"><strong>1</strong><span>University photonic sensing facility co-led</span></div>
+  </div>
+</section>
 
-I am [Brad Lipovsky](https://www.ess.washington.edu/people/profile.php?pid=lipovsky--brad), a geophysicist who studies both fundamental and hazards-related earth, environmental, and planetary processes. I run the Lipovsky research group in the [Department of Earth and Space Sciences](http://ess.uw.edu) at the [University of Washington](http://washington.edu). Learn more about our [group vision](https://github.com/bradlipovsky/group-vision/blob/main/group-vision.md) and our [group members](https://bradlipovsky.github.io/people/).
+<section class="home-section" aria-labelledby="programs-title">
+  <div class="shell">
+    <div class="section-heading">
+      <div>
+        <p class="eyebrow">A unified research program</p>
+        <h2 id="programs-title">Observation and mechanics, working together.</h2>
+      </div>
+      <p>The group builds new sensing capabilities, develops physical theory, and brings both to consequential problems in the cryosphere, oceans, and solid Earth.</p>
+    </div>
+    <div class="program-grid">
+      <article class="program-card">
+        <p class="program-card__number">01</p>
+        <h3>Optical fiber geophysics</h3>
+        <p>Turning existing and purpose-built fiber cables into dense observatories for seismic, acoustic, thermal, and environmental signals.</p>
+        <a class="text-link" href="{{ '/research/#fiber-sensing' | relative_url }}">Explore fiber sensing</a>
+      </article>
+      <article class="program-card">
+        <p class="program-card__number">02</p>
+        <h3>Ice fracture and dynamics</h3>
+        <p>Explaining how glaciers slide, ice shelves fracture, and ice–ocean interactions shape future sea-level change.</p>
+        <a class="text-link" href="{{ '/research/#cryosphere' | relative_url }}">Explore cryosphere research</a>
+      </article>
+      <article class="program-card">
+        <p class="program-card__number">03</p>
+        <h3>Environmental hazards</h3>
+        <p>Connecting waves and deformation to earthquakes, volcanoes, landslides, geothermal systems, and ocean processes.</p>
+        <a class="text-link" href="{{ '/research/#hazards' | relative_url }}">Explore hazards research</a>
+      </article>
+    </div>
+  </div>
+</section>
 
-Although my background is in mechanical modeling of geophysical observations, after realizing that Distributed Acoustic Sensing (DAS) is a game-changing technology with wide ranging applications, I steered my research energy in a new, more observational direction. This history has given me a more balanced perspective on the interplay between observations and modeling and how different approaches advance scientific understanding. Today, most of my research involves the intersection of two or more topics including:  faulting and fractures, glaciers, wave physics, and distributed acoustic sensing and other optical fiber geophysical methods. Research topics are listed below in a few broad themes, with publications referenced [here](https://bradlipovsky.github.io/files/cv.pdf).
+<section class="home-section home-section--tint" aria-labelledby="frontiers-title">
+  <div class="shell">
+    <div class="section-heading">
+      <div>
+        <p class="eyebrow">Research frontiers</p>
+        <h2 id="frontiers-title">From new instruments to new understanding.</h2>
+      </div>
+      <p>Flagship projects span the full arc of discovery: designing observations, working in extreme environments, interpreting new signals, and building predictive models.</p>
+    </div>
+    <div class="feature-list">
+      <article class="feature-story">
+        <div class="feature-story__media">
+          <img src="{{ '/images/PANO_20190317_142920.jpg' | relative_url }}" alt="Panoramic view of glaciers and mountains from a rocky field site" width="1680" height="377" loading="lazy">
+        </div>
+        <div class="feature-story__content">
+          <p class="feature-story__tag">Dense environmental observatories</p>
+          <h3>Fiber sensing from glacier boreholes to the deep ocean</h3>
+          <p>A single optical fiber can become thousands of synchronized sensors. The group is extending that idea across Greenland fjords, Antarctic ice, Cascade volcanoes, and submarine telecommunications infrastructure.</p>
+          <a class="text-link" href="{{ '/research/#fiber-sensing' | relative_url }}">See the sensing program</a>
+        </div>
+      </article>
+      <article class="feature-story">
+        <div class="feature-story__media">
+          <img src="{{ '/images/amery-ice-shelf.jpg' | relative_url }}" alt="Satellite view of the Amery Ice Shelf with red areas marking fracture activity near the calving front" width="1220" height="429" loading="lazy">
+        </div>
+        <div class="feature-story__content">
+          <p class="feature-story__tag">Mechanics of a changing cryosphere</p>
+          <h3>Why ice shelves hold—and how they fail</h3>
+          <p>Models and observations reveal how ocean coupling, tides, temperature, meltwater, and shear margins govern rift propagation and calving around Antarctica.</p>
+          <a class="text-link" href="{{ '/research/#cryosphere' | relative_url }}">See the ice mechanics program</a>
+        </div>
+      </article>
+    </div>
+  </div>
+</section>
 
-## 🌎 Optical fiber geophysics, including Distributed Acoustic Sensing (DAS)
-Optical fiber sensing is a major focus of our group. We are interested in Distributed Acoustic Sensing (DAS) as well as other technologies.  Our group runs the University of Washington [Fiber Lab](http://fiberlab.uw.edu). We have applied these techniques in several ways:
-- DAS measurements of glacier melt (25)
-- DAS observations of subglacial conditions (21)
-- DAS observations of submarine, acoustics including marine mammal volcalizations (20,22)
-- Methods for storing and efficiently accessing large-scale DAS datasets (23,26)
+<section class="home-section home-section--dark" aria-labelledby="leadership-title">
+  <div class="shell">
+    <div class="section-heading section-heading--light">
+      <div>
+        <p class="eyebrow eyebrow--light">Scientific leadership</p>
+        <h2 id="leadership-title">Building the field around the science.</h2>
+      </div>
+      <p>Leadership means more than publishing results: it means creating shared infrastructure, convening communities, opening data and code, and developing the people who will define what comes next.</p>
+    </div>
+    <div class="leadership-grid">
+      <article class="leadership-card">
+        <div class="leadership-card__icon" aria-hidden="true">F</div>
+        <h3>Research infrastructure</h3>
+        <p>Co-leadership of the UW Photonic Sensing Facility and multi-institution projects that turn fiber networks into observatories.</p>
+      </article>
+      <article class="leadership-card">
+        <div class="leadership-card__icon" aria-hidden="true">C</div>
+        <h3>Community leadership</h3>
+        <p>Conference Chair for “Optical Seismology and the Next Era in Seismic Sensing,” plus working-group, editorial, and advisory roles.</p>
+      </article>
+      <article class="leadership-card">
+        <div class="leadership-card__icon" aria-hidden="true">O</div>
+        <h3>Open, reproducible science</h3>
+        <p>Open-access publishing, public code and data, and training resources designed to make new methods useful beyond a single project.</p>
+      </article>
+    </div>
+  </div>
+</section>
 
-## ⚡ Ice shelf rifts, crevasses, and hydraulic fracture
-Rifts are enormous (100 km+) fractures that cut through the floating ice shelves that surround the Antarctic ice sheet. Since ice shelves act like retaining walls that protect the grounded part of the ice sheet, their stability is of central importance in understanding rates of future sea level rise.  We've studied numerous aspects of ice shelf rifts, including
-- Ice shelf rift propagation, including the role of shear margins (13) and ocean water interactions (24)
-- The first-ever study documenting the ice dynamics of the post-calving phase of the calving cycle (28)
-- The effect of ocean swell (6,14), tides (18), and other environmental forcing in understanding ice shelf fracture
-- The dynamics of hydraulic fractures in ice shelves and other systems (2)
+<section class="home-section" aria-labelledby="highlights-title">
+  <div class="shell">
+    <div class="section-heading">
+      <div>
+        <p class="eyebrow">Current highlights</p>
+        <h2 id="highlights-title">Work moving the frontier.</h2>
+      </div>
+      <p>Recent milestones across ocean observatories, Greenland glaciology, and research translation.</p>
+    </div>
+    <div class="publication-list">
+      {% for highlight in site.data.highlights %}
+      <article class="publication-row">
+        <span class="publication-row__year">{{ highlight.date }}</span>
+        <div>
+          <h3>{{ highlight.title }}</h3>
+          <p>{{ highlight.description }}</p>
+        </div>
+        <a class="text-link" href="{{ highlight.url }}">Read more</a>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
 
-## 🧊 Glacier Dynamics 
-- The relationship between glacier sliding and basal icequakes (3,10,16,19)
-- Glacier slow slip events (5,15)
-- Seismic observations of glacier hydrology (9,25)
+<section class="home-section home-section--tint" aria-labelledby="group-title">
+  <div class="shell">
+    <div class="people-callout">
+      <div class="people-callout__portrait">
+        <img src="{{ '/images/newheadshot.jpg' | relative_url }}" alt="Brad Lipovsky" width="1455" height="1940" loading="lazy">
+      </div>
+      <div class="people-callout__content">
+        <p class="eyebrow eyebrow--light">The Lipovsky research group</p>
+        <h2 id="group-title">Ambitious science, built by people who own their ideas.</h2>
+        <p>Our group pairs high expectations for ethical, reproducible work with a culture that values kindness, inclusion, sustainable careers, and intellectual independence.</p>
+        <div class="button-row">
+          <a class="button button--light" href="{{ '/people/' | relative_url }}">Meet the group</a>
+          <a class="button" href="{{ '/opportunities/' | relative_url }}">Work with us</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
-## 📈 Other projects
-We've published broadly on topics including landslides (7,12,27), tectonic earthquakes (1,26), and volcanic activity (2).
+<section class="home-section" aria-labelledby="selected-pubs-title">
+  <div class="shell">
+    <div class="section-heading">
+      <div>
+        <p class="eyebrow">Selected publications</p>
+        <h2 id="selected-pubs-title">Ideas, observations, and tools.</h2>
+      </div>
+      <p><a class="text-link" href="{{ '/publications/' | relative_url }}">View selected publications</a></p>
+    </div>
+    <div class="publication-list">
+      {% assign featured_publications = site.data.publications | where: 'featured', true %}
+      {% for publication in featured_publications limit: 3 %}
+      <article class="publication-row">
+        <span class="publication-row__year">{{ publication.year }}</span>
+        <div>
+          <h3>{{ publication.title }}</h3>
+          <p>{{ publication.venue }} · {{ publication.note }}</p>
+        </div>
+        <a class="text-link" href="{{ publication.url }}">Open paper</a>
+      </article>
+      {% endfor %}
+    </div>
+    <p><small>¹ Total includes projects on which Lipovsky is a co-investigator. Metrics reflect the April 2026 CV.</small></p>
+  </div>
+</section>

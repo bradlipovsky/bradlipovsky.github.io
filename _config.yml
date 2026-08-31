@@ -10,14 +10,14 @@ locale                   : "en-US"
 title                    : "Brad Lipovsky"
 title_separator          : "-"
 name                     : &name "Bradley Paul Lipovsky"
-description              : &description "personal description"
+description              : &description "Brad Lipovsky is a University of Washington geophysicist developing new ways to observe and explain how Earth fractures, flows, and changes."
 url                      : https://bradlipovsky.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "bradlipovsky/bradlipovsky.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -62,32 +62,37 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "/images/rift.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Bradley Paul Lipovsky"
+  links:
+    - https://ess.uw.edu/people/brad-lipovsky
+    - https://scholar.google.com/citations?user=QLRsDhMAAAAJ&hl=en
+    - https://orcid.org/0000-0003-4940-0745
+    - https://github.com/bradlipovsky
+    - https://www.linkedin.com/in/brad-lipovsky-76a00719
 
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false
   google:
     tracking_id          :
 
 
 # Site Author
 author:
-  name             : #"Your Sidebar Name"
+  name             : "Brad Lipovsky"
   avatar           :  "newheadshot.jpg"
-  bio              : 
+  bio              : "Geophysicist studying a changing planet through mechanics and optical fiber sensing."
   location         : "Seattle, WA"
   employer         : "University of Washington"
   pubmed           : 
-  googlescholar    : 
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=QLRsDhMAAAAJ&hl=en"
+  email            : "bpl7@uw.edu"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -96,14 +101,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "bradlipovsky"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : 
-  orcid            : 
+  linkedin         : "brad-lipovsky-76a00719"
+  orcid            : "https://orcid.org/0000-0003-4940-0745"
+  uw_profile       : "https://ess.uw.edu/people/brad-lipovsky"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
@@ -123,7 +129,8 @@ include:
   - _pages
   - files
 exclude:
-  - assets`
+  - .dockerignore
+  - .ruby-version
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -131,11 +138,15 @@ exclude:
   - .jekyll-assets-cache
   - .sass-cache
   - CHANGELOG
+  - CHANGELOG.md
+  - CONTRIBUTING.md
   - Capfile
   - Gemfile
+  - Gemfile.lock
   - Gruntfile.js
   - LICENSE
   - README
+  - README.md
   - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
@@ -147,6 +158,13 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - CONTENT.md
+  - Dockerfile
+  - compose.yml
+  - markdown_generator
+  - talkmap
+  - talkmap.ipynb
+  - talkmap.py
 keep_files:
   - .git
   - .svn
@@ -180,10 +198,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   #talks:
   #  output: true
@@ -197,46 +215,34 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      layout: page
+      sitemap: false
   # _pages
   - scope:
       path: ""
       type: pages
     values:
-      layout: single
-      author_profile: true
+      layout: page
   # _teaching
   - scope:
       path: ""
       type: teaching
     values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+      layout: page
   # _publications
   - scope:
       path: ""
       type: publications
     values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+      layout: page
+      sitemap: false
   # _portfolio
   - scope:
       path: ""
       type: portfolio
     values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+      layout: page
+      sitemap: false
   # _talks
   - scope:
       path: ""
@@ -260,7 +266,6 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 # Plugins
 plugins:
-  - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -273,9 +278,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
-remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Archives
 #  Type
@@ -312,4 +314,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-

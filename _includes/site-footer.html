@@ -1,0 +1,30 @@
+<footer class="site-footer">
+  <div class="shell site-footer__grid">
+    <div>
+      <a class="site-footer__brand" href="{{ '/' | relative_url }}">Brad Lipovsky</a>
+      <p>Geophysics at the intersection of mechanics, optical fiber sensing, and a changing planet.</p>
+    </div>
+    <div>
+      <p class="site-footer__heading">Explore</p>
+      <ul>
+        <li><a href="{{ '/research/' | relative_url }}">Research</a></li>
+        <li><a href="{{ '/people/' | relative_url }}">People</a></li>
+        <li><a href="{{ '/publications/' | relative_url }}">Publications</a></li>
+        <li><a href="{{ '/opportunities/' | relative_url }}">Opportunities</a></li>
+      </ul>
+    </div>
+    <div>
+      <p class="site-footer__heading">Connect</p>
+      <ul>
+        <li><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+        <li><a href="{{ site.author.uw_profile }}">UW profile</a></li>
+        <li><a href="{{ site.author.googlescholar }}">Google Scholar</a></li>
+        <li><a href="{{ site.author.orcid }}">ORCID</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="shell site-footer__bottom">
+    <p>© {{ site.time | date: '%Y' }} Bradley Paul Lipovsky</p>
+    <p>University of Washington · Seattle</p>
+  </div>
+</footer>

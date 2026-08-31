@@ -1,59 +1,38 @@
 ---
-layout: archive
-title: "CV"
+layout: page
+title: "Curriculum vitae"
+kicker: "Bradley Paul Lipovsky"
+description: "Academic positions, research, publications, funding, mentoring, teaching, leadership, and service."
 permalink: /cv/
-author_profile: true
+wide: true
 redirect_from:
   - /resume
 ---
+<div class="cv-summary">
+  <div class="cv-summary__portrait">
+    <img src="{{ '/images/newheadshot.jpg' | relative_url }}" alt="Brad Lipovsky" width="1455" height="1940">
+  </div>
+  <div class="cv-summary__copy">
+    <p class="eyebrow">Geophysicist · Educator · Research leader</p>
+    <h2>Mechanics and new observations for a changing planet.</h2>
+    <p>Brad Lipovsky is an Assistant Professor in the University of Washington Department of Earth and Space Sciences. His group develops optical fiber sensing and physics-based models for problems in glaciology, seismology, ocean science, volcanology, and natural hazards.</p>
+    <div class="button-row">
+      <a class="button" href="{{ '/files/cv.pdf' | relative_url }}">Download full CV</a>
+      <a class="button button--ghost" href="https://scholar.google.com/citations?user=QLRsDhMAAAAJ&hl=en">Google Scholar</a>
+      <a class="button button--ghost" href="https://orcid.org/0000-0003-4940-0745">ORCID</a>
+    </div>
+    <ul class="credential-list">
+      <li><strong>2020–</strong><span>Assistant Professor, University of Washington</span></li>
+      <li><strong>2017–20</strong><span>Postdoctoral Research Associate, Lecturer, and Research Associate, Harvard University</span></li>
+      <li><strong>2017</strong><span>PhD in Geophysics, Stanford University</span></li>
+      <li><strong>2011</strong><span>MS in Earth Science, University of California, Riverside</span></li>
+      <li><strong>2008</strong><span>BA in Mathematics, Cornell University</span></li>
+    </ul>
+  </div>
+</div>
 
-{% include base_path %}
-
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<div class="callout">
+  <p class="eyebrow eyebrow--light">Current edition</p>
+  <h2>Last updated 8 April 2026.</h2>
+  <p>The PDF is the authoritative detailed record. Group membership is maintained separately on the <a class="text-link text-link--light" href="{{ '/people/' | relative_url }}">People page</a> so changes can be published promptly.</p>
+</div>
