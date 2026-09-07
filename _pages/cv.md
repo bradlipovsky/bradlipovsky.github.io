@@ -5,6 +5,9 @@ kicker: "Bradley Paul Lipovsky"
 description: "Academic positions, research, publications, funding, mentoring, teaching, leadership, and service in glaciology and fiber sensing."
 permalink: /cv/
 wide: true
+hero_image: /images/ekas-web.jpg
+hero_position: center 43%
+image: /images/ekas-web.jpg
 redirect_from:
   - /resume
 ---

@@ -5,6 +5,9 @@ kicker: "Selected research"
 description: "Peer-reviewed work spanning optical fiber geophysics, glacier and ice-shelf mechanics, environmental seismology, and Earth hazards."
 permalink: /publications/
 wide: true
+hero_image: /images/glacier-tsunami-web.jpg
+hero_position: center 44%
+image: /images/glacier-tsunami-web.jpg
 ---
 <div class="intro-grid">
   <p class="intro-grid__lead">The publication record connects field experiments and dense fiber-optic observations with mechanics, turning unfamiliar signals into direct tests of fracture, friction, deformation, and failure.</p>

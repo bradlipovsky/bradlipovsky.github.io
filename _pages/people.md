@@ -5,6 +5,9 @@ kicker: "The Lipovsky research group"
 description: "Students, postdoctoral researchers, and alumni building new observations and physical understanding across the cryosphere, oceans, and solid Earth."
 permalink: /people/
 wide: true
+hero_image: /images/camping-web.jpg
+hero_position: center 58%
+image: /images/camping-web.jpg
 ---
 <div class="intro-grid">
   <p class="intro-grid__lead">The UW FiberLab and Lipovsky group are collaborative communities in which students and postdoctoral researchers build ownership of ambitious scientific ideas.</p>

@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<header class="page-hero{% if page.hero_image %} page-hero--image{% endif %}"{% if page.hero_image %} style="--page-hero-image: url('{{ page.hero_image | relative_url }}')"{% endif %}>
+<header class="page-hero{% if page.hero_image %} page-hero--image{% endif %}"{% if page.hero_image %} style="--page-hero-image: url('{{ page.hero_image | relative_url }}'); --page-hero-position: {{ page.hero_position | default: 'center' }}"{% endif %}>
   <div class="shell page-hero__inner">
     {% if page.kicker %}<p class="eyebrow">{{ page.kicker }}</p>{% endif %}
     <h1>{{ page.title }}</h1>

@@ -5,6 +5,9 @@ kicker: "Work with us"
 description: "Information for prospective graduate students, postdoctoral scholars, and undergraduate researchers interested in the Lipovsky group."
 permalink: /opportunities/
 wide: true
+hero_image: /images/camping-web.jpg
+hero_position: center 68%
+image: /images/camping-web.jpg
 redirect_from:
   - /hiring/
 ---

@@ -5,6 +5,9 @@ kicker: "Building infrastructure, communities, and paths to use"
 description: "The UW FiberLab, scientific community leadership, research translation, partnerships, and service."
 permalink: /leadership/
 wide: true
+hero_image: /images/iceberg-web.jpg
+hero_position: center 54%
+image: /images/iceberg-web.jpg
 ---
 <div class="intro-grid">
   <p class="intro-grid__lead">Scientific leadership means creating the shared infrastructure, communities, and partnerships that allow good ideas—and people—to travel farther.</p>
