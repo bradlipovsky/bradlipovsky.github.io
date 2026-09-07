@@ -2,7 +2,7 @@
 layout: page
 title: "Selected Publications"
 kicker: "Selected research"
-description: "Peer-reviewed work spanning optical fiber geophysics, glacier and ice-shelf mechanics, environmental seismology, and Earth hazards."
+description: "Selected papers testing fracture, friction, deformation, and failure in Earth materials through mechanics and field observations."
 permalink: /publications/
 wide: true
 hero_image: /images/glacier-tsunami-web.jpg
@@ -10,10 +10,37 @@ hero_position: center 44%
 image: /images/glacier-tsunami-web.jpg
 ---
 <div class="intro-grid">
-  <p class="intro-grid__lead">The publication record connects field experiments and dense fiber-optic observations with mechanics, turning unfamiliar signals into direct tests of fracture, friction, deformation, and failure.</p>
+  <p class="intro-grid__lead">The publication record develops a mechanics-first account of fracture, friction, deformation, and failure across engineered and natural Earth systems.</p>
   <aside class="intro-grid__aside">
     <p>This page highlights recent and foundational papers. The complete, current record is available through <a href="https://scholar.google.com/citations?user=QLRsDhMAAAAJ&hl=en">Google Scholar</a>, <a href="https://orcid.org/0000-0003-4940-0745">ORCID</a>, and the <a href="{{ '/files/cv.pdf' | relative_url }}">full CV</a>. Asterisks in the CV identify mentees.</p>
   </aside>
+</div>
+
+<section class="publication-canon" aria-labelledby="fracture-canon-title">
+  <div class="publication-canon__heading">
+    <p class="eyebrow">Mechanics across systems</p>
+    <h2 id="fracture-canon-title">Selected fracture and failure papers</h2>
+    <p>These papers trace a common mechanical arc from hydraulic-fracture resonance to wave-driven rifting, rupture speed, and calving-driven ice–ocean coupling.</p>
+  </div>
+  <div class="publication-canon__list">
+    {% assign fracture_canon = site.data.publications | where: 'canon', 'fracture' %}
+    {% for publication in fracture_canon %}
+    <article class="pub-card">
+      <div>
+        <h3>{{ publication.title }}</h3>
+        <p class="pub-card__authors">{{ publication.authors }}</p>
+        <p class="pub-card__venue">{{ publication.venue }} · {{ publication.year }}</p>
+        {% if publication.note %}<p>{{ publication.note }}</p>{% endif %}
+      </div>
+      <a class="text-link pub-card__link" href="{{ publication.url }}">Open paper</a>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+
+<div class="publication-archive__heading">
+  <p class="eyebrow">Selected chronology</p>
+  <h2>Recent and foundational work</h2>
 </div>
 
 <div class="publication-archive">

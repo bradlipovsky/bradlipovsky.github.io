@@ -2,7 +2,7 @@
 layout: page
 title: "Curriculum vitae"
 kicker: "Bradley Paul Lipovsky"
-description: "Academic positions, research, publications, funding, mentoring, teaching, leadership, and service in glaciology and fiber sensing."
+description: "Academic positions, research, publications, funding, mentoring, teaching, leadership, and service in field mechanics and geophysics."
 permalink: /cv/
 wide: true
 hero_image: /images/ekas-web.jpg
@@ -15,7 +15,7 @@ redirect_from:
   <div class="cv-summary__copy">
     <p class="eyebrow">Geophysicist · Educator · Research leader</p>
     <h2>Field experiments and mechanics of Earth-material failure.</h2>
-    <p>Brad Lipovsky is an Assistant Professor in the University of Washington Department of Earth and Space Sciences and founder of the UW FiberLab. A modeler and field scientist, he combines dense fiber-optic sensing with mechanics to test how Earth materials fracture, deform, and fail across glaciology, seismology, oceanography, volcanology, and natural hazards.</p>
+    <p>Brad Lipovsky is an Assistant Professor in the University of Washington Department of Earth and Space Sciences and founder of the UW FiberLab. A modeler and field scientist, he combines dense fiber-optic sensing with mechanics to test how Earth materials fracture, deform, and fail in systems ranging from engineered hydraulic fractures to glacier beds, ice shelves, and ice–ocean boundaries.</p>
     <div class="button-row">
       <a class="button" href="{{ '/files/cv.pdf' | relative_url }}">Download full CV</a>
       <a class="button button--ghost" href="https://scholar.google.com/citations?user=QLRsDhMAAAAJ&hl=en">Google Scholar</a>

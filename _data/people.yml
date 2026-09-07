@@ -13,7 +13,7 @@ current:
             url: "https://orcid.org/0000-0003-2422-7907"
       - name: "Dominik Gräff"
         role: "Postdoctoral Scholar"
-        focus: "Fiber-optic observations of glacier basal sliding, hydrology, and Greenland ice–ocean interactions."
+        focus: "Glacier basal friction, hydrology, and Greenland ice–ocean coupling measured with dense fiber-optic observations."
         links:
           - label: "UW"
             url: "https://ess.uw.edu/people/dominik-graff/"
@@ -21,7 +21,7 @@ current:
             url: "https://scholar.google.com/citations?user=pyCISyYAAAAJ&hl=en"
       - name: "Stephanie Olinger"
         role: "Postdoctoral Entrepreneur"
-        focus: "Ice-shelf seismology and physics-informed fiber sensing for continuous subsurface intelligence; co-founder of Applied Environmental Intelligence and former co-advised doctoral student."
+        focus: "Ice-shelf fracture mechanics and physics-informed analysis for continuous subsurface monitoring; co-founder of Applied Environmental Intelligence and former co-advised doctoral student."
         links:
           - label: "CoMotion"
             url: "https://comotion.uw.edu/team_members/stephanie-olinger/"
@@ -34,7 +34,7 @@ current:
     people:
       - name: "Will Dienstfrey"
         role: "PhD Student"
-        focus: "Shallow subsurface seafloor imaging using distributed acoustic sensing."
+        focus: "Mechanical imaging of shallow seafloor structure using dense fiber-optic observations."
         links:
           - label: "UW"
             url: "https://ess.uw.edu/people/will-dienstfrey/"
@@ -44,7 +44,7 @@ current:
             url: "https://www.linkedin.com/in/will-dienstfrey-532bb4279/"
       - name: "Parker Sprinkle"
         role: "PhD Student"
-        focus: "Distributed acoustic sensing for enhanced geothermal systems, national-security monitoring, and environmental characterization."
+        focus: "Field mechanics and dense fiber-optic observations in enhanced-geothermal and monitoring experiments."
         links:
           - label: "UW"
             url: "https://ess.uw.edu/people/parker-sprinkle/"
@@ -56,7 +56,7 @@ current:
             url: "https://www.linkedin.com/in/parkersprinkle/"
       - name: "Verónica Gaete Elgueta"
         role: "PhD Student"
-        focus: "Distributed acoustic sensing in volcanic and tectonic environments, including Mount Rainier and Alaska."
+        focus: "Deformation and failure in volcanic and tectonic systems measured with dense fiber arrays, including Mount Rainier and Alaska."
         links:
           - label: "UW"
             url: "https://ess.uw.edu/people/veronica-a-gaete-elgueta/"

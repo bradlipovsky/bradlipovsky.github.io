@@ -2,7 +2,7 @@
 layout: page
 title: "Opportunities"
 kicker: "Work with us"
-description: "Information for prospective graduate students, postdoctoral scholars, and undergraduate researchers interested in the Lipovsky group."
+description: "Opportunities to study fracture, friction, and deformation through mechanics, field experiments, and dense sensing in the Lipovsky group."
 permalink: /opportunities/
 wide: true
 hero_image: /images/camping-web.jpg
@@ -12,9 +12,9 @@ redirect_from:
   - /hiring/
 ---
 <div class="intro-grid">
-  <p class="intro-grid__lead">The group welcomes people who want to combine physical reasoning, computation, field observation, and new sensing technology.</p>
+  <p class="intro-grid__lead">The group welcomes people who want to test fracture, friction, and deformation through physical reasoning, field experiments, computation, and dense observation.</p>
   <aside class="intro-grid__aside">
-    <p>Strong research fit matters more than arriving with every technique. Projects can begin from mechanics, instrumentation, data science, glaciology, seismology, ocean science, or another adjacent field.</p>
+    <p>Strong research fit matters more than arriving with every technique. Projects may begin with fluid-driven fracture, glacier or ice-shelf mechanics, basal friction, instrumentation, or another question where a field measurement can test physical theory.</p>
   </aside>
 </div>
 
@@ -35,7 +35,7 @@ redirect_from:
   </article>
   <article class="opportunity-card">
     <h3>Undergraduate researchers</h3>
-    <p>Undergraduate projects vary with available mentoring, funding, fieldwork, and laboratory needs. Useful starting points include mechanics, scientific programming, signal processing, electronics, and Earth science.</p>
+    <p>Undergraduate projects vary with available mentoring, funding, fieldwork, and laboratory needs. Useful starting points include mechanics, fracture experiments, scientific programming, signal processing, electronics, and Earth science.</p>
     <a class="text-link" href="https://www.washington.edu/undergradresearch/">UW research resources</a>
   </article>
 </div>

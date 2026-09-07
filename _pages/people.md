@@ -2,7 +2,7 @@
 layout: page
 title: "People"
 kicker: "The Lipovsky research group"
-description: "Students, postdoctoral researchers, and alumni building new observations and physical understanding across the cryosphere, oceans, and solid Earth."
+description: "Students, postdoctoral researchers, and alumni testing fracture, friction, and deformation through mechanics, field experiments, and dense observations."
 permalink: /people/
 wide: true
 hero_image: /images/camping-web.jpg
@@ -10,7 +10,7 @@ hero_position: center 58%
 image: /images/camping-web.jpg
 ---
 <div class="intro-grid">
-  <p class="intro-grid__lead">The UW FiberLab and Lipovsky group are collaborative communities in which students and postdoctoral researchers build ownership of ambitious scientific ideas.</p>
+  <p class="intro-grid__lead">The Lipovsky group tests fracture, friction, and deformation in real Earth systems; the UW FiberLab supplies shared infrastructure for making those measurements.</p>
   <aside class="intro-grid__aside">
     <p>The shared commitments are straightforward: act kindly and professionally; do ethical, reproducible, open work; discuss credit early; provide regular feedback; and pursue ambitious work at a sustainable pace.</p>
   </aside>
@@ -45,7 +45,7 @@ image: /images/camping-web.jpg
     <h2>Developing independent scientists</h2>
   </div>
   <div class="research-section__body">
-    <p>Mentoring combines regular one-on-one guidance with increasing intellectual independence. Projects span physical modeling, field instrumentation, data analysis, writing, and scientific communication, with explicit attention to research ethics, authorship, reproducibility, and career development.</p>
+    <p>Mentoring combines regular one-on-one guidance with increasing intellectual independence. Projects span mechanics, controlled and natural field experiments, dense sensing, data analysis, writing, and scientific communication, with explicit attention to research ethics, authorship, reproducibility, and career development.</p>
     <p>Former trainees have continued into faculty, postdoctoral, graduate, research, industry, and public-service roles around the world. Alumni are listed with their next known destination where that information is appropriate for a public professional page.</p>
   </div>
 </section>

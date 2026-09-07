@@ -24,6 +24,8 @@
   venue: "Nature"
   url: "https://doi.org/10.1038/s41586-025-09347-7"
   featured: true
+  homepage_featured: true
+  canon: "fracture"
   note: "Seafloor fiber sensing resolves how iceberg calving drives Greenland fjord dynamics."
 - year: 2025
   title: "Ice shelf evolution combining flow, flexure, and fracture"
@@ -63,18 +65,22 @@
   venue: "AGU Advances"
   url: "https://doi.org/10.1029/2023AV001023"
   featured: true
+  homepage_featured: true
+  canon: "fracture"
   note: "A coupled fracture-mechanics and fluid-dynamics explanation for an extraordinary Antarctic rift event."
 - year: 2020
   title: "Ice shelf rift propagation: stability, three-dimensional effects, and the role of marginal weakening"
   authors: "Bradley P. Lipovsky"
   venue: "The Cryosphere"
   url: "https://doi.org/10.5194/tc-14-1673-2020"
+  canon: "fracture"
   note: "A mechanics-based framework for understanding the stability of Antarctic ice-shelf rifts."
 - year: 2018
   title: "Ice shelf rift propagation and the mechanics of wave-induced fracture"
   authors: "Bradley P. Lipovsky"
   venue: "Journal of Geophysical Research: Oceans"
   url: "https://doi.org/10.1029/2017JC013664"
+  canon: "fracture"
   note: "Quantifies when distant storms, tsunamis, and earthquakes can drive ice-shelf fracture."
 - year: 2016
   title: "Tremor during ice-stream stick slip"
@@ -87,4 +93,6 @@
   authors: "Bradley P. Lipovsky and Eric M. Dunham"
   venue: "Journal of Geophysical Research: Solid Earth"
   url: "https://doi.org/10.1002/2014JB011286"
+  homepage_featured: true
+  canon: "fracture"
   note: "Uses resonance to infer the geometry and fluid properties of hydraulic fractures."

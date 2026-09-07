@@ -2,7 +2,7 @@
 layout: page
 title: "Leadership & impact"
 kicker: "Building infrastructure, communities, and paths to use"
-description: "The UW FiberLab, scientific community leadership, research translation, partnerships, and service."
+description: "Scientific infrastructure, communities, and partnerships that support field tests of Earth-material mechanics."
 permalink: /leadership/
 wide: true
 hero_image: /images/iceberg-web.jpg
@@ -10,7 +10,7 @@ hero_position: center 54%
 image: /images/iceberg-web.jpg
 ---
 <div class="intro-grid">
-  <p class="intro-grid__lead">Scientific leadership means creating the shared infrastructure, communities, and partnerships that allow good ideas—and people—to travel farther.</p>
+  <p class="intro-grid__lead">Scientific leadership means building the infrastructure, communities, and partnerships needed to test mechanics at field scale.</p>
   <aside class="intro-grid__aside">
     <p>At UW, Brad’s group has secured more than $3.4 million in research support while contributing to collaborative awards totaling $13.3 million at UW and $26.5 million across partner institutions.</p>
   </aside>
@@ -22,7 +22,7 @@ image: /images/iceberg-web.jpg
     <h2>Founding the UW FiberLab</h2>
   </div>
   <div class="research-section__body">
-    <p>Brad founded the UW FiberLab as a collaborative research enterprise for distributed fiber sensing in geophysics and environmental science. The Lab brings together faculty, students, postdoctoral researchers, instrumentation, data systems, and collaborators across disciplines rather than treating sensing equipment as the property of a single project.</p>
+    <p>Brad founded the UW FiberLab as shared infrastructure for field experiments that test deformation, fracture, friction, and wave propagation in natural and engineered Earth systems. The Lab brings together faculty, students, postdoctoral researchers, instrumentation, data systems, and collaborators across disciplines rather than treating sensing equipment as the property of a single project.</p>
     <p>Externally funded science remains its core purpose, but shared equipment access has also developed into a sustained operation. Equipment leasing broadens access to specialized systems, supports research teams around the world, and helps maintain capability between individual grants.</p>
     <p><a class="text-link" href="https://fiberlab.uw.edu">Visit the UW FiberLab</a></p>
   </div>
@@ -51,9 +51,9 @@ image: /images/iceberg-web.jpg
     <h2>Connecting fundamental research to practice</h2>
   </div>
   <div class="research-section__body">
-    <p>Fiber sensing depends on close collaboration with cable owners, instrument developers, telecommunications companies, and applied research organizations. Brad contributed to the USGS Powell Center effort that led to laboratory testing of DAS interrogators and has participated in work spanning offshore-energy monitoring, SMART cables, the Internet-S project, and the US Ice Drilling Program.</p>
+    <p>Field tests at scale depend on close collaboration with cable owners, instrument developers, telecommunications companies, and applied research organizations. Brad contributed to the USGS Powell Center effort that led to laboratory testing of DAS interrogators and has participated in work spanning offshore-energy monitoring, SMART cables, the Internet-S project, and the US Ice Drilling Program.</p>
     <p>To make the technology legible outside specialist circles, he developed the open guide <em>Fiber Sensing for Fiber Owners</em>, which has also been translated into Spanish to support projects in South America. A joint appointment at Pacific Northwest National Laboratory connects the group’s methods to national-security monitoring.</p>
-    <p>Brad also co-founded Applied Environmental Intelligence with former student Stephanie Olinger and collaborator Marine Denolle. The UW startup, advised by CoMotion and rooted in intellectual property developed through the research group, translates fiber sensing and physics-informed analysis into continuous subsurface intelligence.</p>
+    <p>Brad also co-founded Applied Environmental Intelligence with former student Stephanie Olinger and collaborator Marine Denolle. The UW startup, advised by CoMotion and rooted in intellectual property developed through the research group, applies dense sensing and physics-informed analysis to continuous subsurface monitoring.</p>
     <p><a class="text-link" href="https://environmentintel.com/">Visit Applied Environmental Intelligence</a></p>
   </div>
 </section>
@@ -61,7 +61,7 @@ image: /images/iceberg-web.jpg
 <section class="research-section">
   <div class="research-section__title">
     <p>Partnerships and support</p>
-    <h2>A diversified research program</h2>
+    <h2>Focused science, broad partnerships</h2>
   </div>
   <div class="research-section__body">
     <p>The group’s work is supported through sole-investigator and collaborative awards from federal, philanthropic, university, and industry partners. Philanthropic projects include a lead-investigator award from the M.J. Murdock Charitable Trust for UW photonic-sensing infrastructure and a Paul G. Allen Family Foundation collaboration on acoustic monitoring of marine mammals.</p>

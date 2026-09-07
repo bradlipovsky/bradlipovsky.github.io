@@ -2,7 +2,7 @@
 layout: default
 permalink: /
 title: "Brad Lipovsky"
-description: "Brad Lipovsky studies fracture, friction, deformation, and Earth-material failure using field experiments, dense fiber-optic sensing, and mechanics."
+description: "Brad Lipovsky tests how Earth materials fracture, deform, and fail using field experiments, dense fiber-optic sensing, and mechanics."
 image: /images/iceberg-web.jpg
 body_class: home
 redirect_from:
@@ -13,8 +13,8 @@ redirect_from:
   <div class="home-hero__grid">
     <div class="home-hero__content">
       <p class="eyebrow eyebrow--light">Geophysicist · University of Washington</p>
-      <h1 id="home-title">Understanding how Earth materials fracture, deform, and fail.</h1>
-      <p class="home-hero__lede">Brad Lipovsky combines field experiments, dense fiber-optic sensing, and mechanics to directly test how friction evolves and how Earth materials fracture, deform, and fail—from engineered hydraulic fractures and glacier beds to ice shelves, volcanoes, and the deep ocean.</p>
+      <h1 id="home-title">Testing how Earth materials fracture, deform, and fail.</h1>
+      <p class="home-hero__lede">Brad Lipovsky combines controlled field experiments, dense fiber-optic sensing, and mechanics to test how fluid-driven fractures grow, arrest, and interact with ice, rock, and water.</p>
       <div class="button-row">
         <a class="button button--light" href="{{ '/research/' | relative_url }}">Explore the research</a>
         <a class="button" href="{{ '/files/cv.pdf' | relative_url }}">Download CV</a>
@@ -38,29 +38,29 @@ redirect_from:
   <div class="shell">
     <div class="section-heading">
       <div>
-        <p class="eyebrow">A unified research program</p>
-        <h2 id="programs-title">Field experiments, dense sensing, and mechanics.</h2>
+        <p class="eyebrow">A mechanics-first research program</p>
+        <h2 id="programs-title">Mechanical theory, tested in real Earth systems.</h2>
       </div>
-      <p>The group builds new sensing capabilities, develops physical theory, and brings both to consequential problems in the cryosphere, oceans, and solid Earth.</p>
+      <p>Controlled experiments and dense observations test how pressure, elasticity, freezing, heterogeneity, and boundaries govern fracture and friction.</p>
     </div>
     <div class="program-grid">
       <article class="program-card">
         <p class="program-card__number">01</p>
-        <h3>Dense fiber-optic sensing</h3>
-        <p>Turning existing and purpose-built fiber cables into observatories that resolve deformation, fracture, friction, and wave propagation in the field.</p>
-        <a class="text-link" href="{{ '/research/#fiber-sensing' | relative_url }}">Explore fiber sensing</a>
+        <h3>Field tests of fluid-driven fracture</h3>
+        <p>Controlled field experiments test how pressure, elasticity, freezing, heterogeneity, and boundary conditions govern crack growth and arrest.</p>
+        <a class="text-link" href="{{ '/research/#fracture' | relative_url }}">Explore fracture mechanics</a>
       </article>
       <article class="program-card">
         <p class="program-card__number">02</p>
-        <h3>Fracture and failure across scales</h3>
-        <p>Connecting hydraulic fractures, glacier sliding, ice-shelf rifts, and calving to the mechanics that govern failure and stability.</p>
-        <a class="text-link" href="{{ '/research/#cryosphere' | relative_url }}">Explore cryosphere research</a>
+        <h3>Ice as a natural laboratory for fracture and friction</h3>
+        <p>Glacier beds, ice-shelf rifts, and calving fronts expose how deformation localizes and how failure couples ice, rock, water, and ocean.</p>
+        <a class="text-link" href="{{ '/research/#cryosphere' | relative_url }}">Explore ice mechanics</a>
       </article>
       <article class="program-card">
         <p class="program-card__number">03</p>
-        <h3>Deformation in a changing world</h3>
-        <p>Extending the same observational and mechanical approach to oceans, earthquakes, volcanoes, landslides, geothermal systems, and national-security monitoring.</p>
-        <a class="text-link" href="{{ '/research/#hazards' | relative_url }}">Explore hazards research</a>
+        <h3>Fiber-optic observatories for field mechanics</h3>
+        <p>Dense fiber measurements turn cables into thousands of sensors for observing deformation, fracture, friction, and wave propagation in natural systems.</p>
+        <a class="text-link" href="{{ '/research/#fiber-sensing' | relative_url }}">Explore field observatories</a>
       </article>
     </div>
   </div>
@@ -70,21 +70,21 @@ redirect_from:
   <div class="shell">
     <div class="section-heading">
       <div>
-        <p class="eyebrow">Research frontiers</p>
-        <h2 id="frontiers-title">From new instruments to new understanding.</h2>
+        <p class="eyebrow">Mechanics in practice</p>
+        <h2 id="frontiers-title">Fracture and friction, observed and tested.</h2>
       </div>
-      <p>Flagship projects span the full arc of discovery: designing observations, working in extreme environments, interpreting new signals, and building predictive models.</p>
+      <p>The group designs field tests around specific mechanical questions, then builds the observations and models needed to resolve them.</p>
     </div>
     <div class="feature-list">
       <article class="feature-story">
         <div class="feature-story__media">
-          <img src="{{ '/images/camping-web.jpg' | relative_url }}" alt="Field camp beside a glacier and an iceberg-filled fjord" width="2000" height="1506" loading="lazy">
+          <img src="{{ '/images/rift.jpg' | relative_url }}" alt="A rift cutting across an Antarctic ice shelf beside a research aircraft" width="1024" height="576" loading="lazy">
         </div>
         <div class="feature-story__content">
-          <p class="feature-story__tag">Dense environmental observatories</p>
-          <h3>Fiber sensing from glacier boreholes to the deep ocean</h3>
-          <p>A single optical fiber can become thousands of synchronized sensors. The group is extending that idea across Greenland fjords, Antarctic ice, volcanic systems, and submarine telecommunications infrastructure—from purpose-built experiments to ocean-basin-scale networks.</p>
-          <a class="text-link" href="{{ '/research/#fiber-sensing' | relative_url }}">See the sensing program</a>
+          <p class="feature-story__tag">Controlled field experiments</p>
+          <h3>Watching fluid-driven fractures grow and arrest</h3>
+          <p>Experiments combine controlled pressure forcing, dense strain observations, and mechanics to test how elasticity, freezing, heterogeneity, and boundaries govern crack propagation.</p>
+          <a class="text-link" href="{{ '/research/#fracture' | relative_url }}">See the fracture program</a>
         </div>
       </article>
       <article class="feature-story">
@@ -92,21 +92,21 @@ redirect_from:
           <img src="{{ '/images/glacier-tsunami-web.jpg' | relative_url }}" alt="Waves and scattered ice moving away from a calving glacier front" width="2000" height="1506" loading="lazy">
         </div>
         <div class="feature-story__content">
-          <p class="feature-story__tag">Mechanics of a changing cryosphere</p>
-          <h3>How fracture reshapes glacier fronts</h3>
-          <p>Models and field observations reveal how calving, ocean coupling, tides, temperature, meltwater, and shear margins govern fracture propagation, fjord circulation, and ice loss.</p>
+          <p class="feature-story__tag">Ice as a natural laboratory</p>
+          <h3>Fracture and friction across the cryosphere</h3>
+          <p>Ice-shelf rifts, calving fronts, and glacier beds reveal how cracks propagate, friction evolves, and failure couples ice to rock and water.</p>
           <a class="text-link" href="{{ '/research/#cryosphere' | relative_url }}">See the ice mechanics program</a>
         </div>
       </article>
       <article class="feature-story">
         <div class="feature-story__media">
-          <img src="{{ '/images/rainier-web.jpg' | relative_url }}" alt="The glaciated summit of Mount Rainier framed by forest" width="2000" height="1500" loading="lazy">
+          <img src="{{ '/images/camping-web.jpg' | relative_url }}" alt="Field camp beside a glacier and an iceberg-filled fjord" width="2000" height="1506" loading="lazy">
         </div>
         <div class="feature-story__content">
-          <p class="feature-story__tag">Solid Earth and natural hazards</p>
-          <h3>Dense sensing across volcanoes and the solid Earth</h3>
-          <p>Fiber observations and mechanics extend tools developed in glaciology to volcanic deformation, earthquakes, seafloor structure, geothermal systems, and national-security monitoring.</p>
-          <a class="text-link" href="{{ '/research/#hazards' | relative_url }}">See the hazards program</a>
+          <p class="feature-story__tag">Enabling infrastructure</p>
+          <h3>Fiber sensing built around mechanics questions</h3>
+          <p>Purpose-built and existing cables provide dense measurements of strain, temperature, and wave propagation in systems that are otherwise difficult to instrument.</p>
+          <a class="text-link" href="{{ '/research/#fiber-sensing' | relative_url }}">See the observation platform</a>
         </div>
       </article>
     </div>
@@ -126,7 +126,7 @@ redirect_from:
       <article class="leadership-card">
         <div class="leadership-card__icon" aria-hidden="true">F</div>
         <h3>Research infrastructure</h3>
-        <p>Founder of the UW FiberLab, a collaborative research enterprise that turns purpose-built and existing fiber networks into shared environmental observatories.</p>
+        <p>Founder of the UW FiberLab, shared infrastructure for field experiments that test deformation, fracture, friction, and wave propagation.</p>
       </article>
       <article class="leadership-card">
         <div class="leadership-card__icon" aria-hidden="true">C</div>
@@ -148,9 +148,9 @@ redirect_from:
     <div class="section-heading">
       <div>
         <p class="eyebrow">Current highlights</p>
-        <h2 id="highlights-title">Work moving the frontier.</h2>
+        <h2 id="highlights-title">Recent work and collaborations.</h2>
       </div>
-      <p>Recent milestones across ocean observatories, Greenland glaciology, and research translation.</p>
+      <p>Recent measurements and collaborations that extend field mechanics across scales and settings.</p>
     </div>
     <div class="publication-list">
       {% for highlight in site.data.highlights %}
@@ -191,12 +191,12 @@ redirect_from:
     <div class="section-heading">
       <div>
         <p class="eyebrow">Selected publications</p>
-        <h2 id="selected-pubs-title">Ideas, observations, and tools.</h2>
+        <h2 id="selected-pubs-title">Fracture mechanics across systems.</h2>
       </div>
       <p><a class="text-link" href="{{ '/publications/' | relative_url }}">View selected publications</a></p>
     </div>
     <div class="publication-list">
-      {% assign featured_publications = site.data.publications | where: 'featured', true %}
+      {% assign featured_publications = site.data.publications | where: 'homepage_featured', true %}
       {% for publication in featured_publications limit: 3 %}
       <article class="publication-row">
         <span class="publication-row__year">{{ publication.year }}</span>
