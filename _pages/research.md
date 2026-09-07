@@ -5,8 +5,8 @@ kicker: "Fracture, friction, deformation, and failure"
 description: "Field experiments, dense fiber-optic sensing, and mechanics directly test how Earth materials fracture, deform, and fail."
 permalink: /research/
 wide: true
-hero_image: /images/PANO_20190317_142920.jpg
-image: /images/PANO_20190317_142920.jpg
+hero_image: /images/ekas-web.jpg
+image: /images/ekas-web.jpg
 ---
 <div class="intro-grid">
   <p class="intro-grid__lead">Field experiments, dense fiber-optic sensing, and mechanics make it possible to directly test how friction evolves and how Earth materials fracture, deform, and fail.</p>

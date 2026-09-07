@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Publications"
+title: "Selected Publications"
 kicker: "Selected research"
 description: "Peer-reviewed work spanning optical fiber geophysics, glacier and ice-shelf mechanics, environmental seismology, and Earth hazards."
 permalink: /publications/

@@ -3,7 +3,7 @@ layout: default
 permalink: /
 title: "Brad Lipovsky"
 description: "Brad Lipovsky studies fracture, friction, deformation, and Earth-material failure using field experiments, dense fiber-optic sensing, and mechanics."
-image: /images/rift.jpg
+image: /images/iceberg-web.jpg
 body_class: home
 redirect_from:
   - /about/
@@ -21,7 +21,7 @@ redirect_from:
       </div>
     </div>
     <div class="home-hero__image">
-      <img src="{{ '/images/rift.jpg' | relative_url }}" alt="Aerial view of a vast rift cutting across an Antarctic ice shelf beside a research aircraft" width="1024" height="576">
+      <img src="{{ '/images/iceberg-web.jpg' | relative_url }}" alt="A sculpted iceberg floating in calm blue water" width="2000" height="1336">
     </div>
   </div>
 </section>
@@ -78,7 +78,7 @@ redirect_from:
     <div class="feature-list">
       <article class="feature-story">
         <div class="feature-story__media">
-          <img src="{{ '/images/PANO_20190317_142920.jpg' | relative_url }}" alt="Panoramic view of glaciers and mountains from a rocky field site" width="1680" height="377" loading="lazy">
+          <img src="{{ '/images/camping-web.jpg' | relative_url }}" alt="Field camp beside a glacier and an iceberg-filled fjord" width="2000" height="1506" loading="lazy">
         </div>
         <div class="feature-story__content">
           <p class="feature-story__tag">Dense environmental observatories</p>
@@ -89,13 +89,24 @@ redirect_from:
       </article>
       <article class="feature-story">
         <div class="feature-story__media">
-          <img src="{{ '/images/amery-ice-shelf.jpg' | relative_url }}" alt="Satellite view of the Amery Ice Shelf with red areas marking fracture activity near the calving front" width="1220" height="429" loading="lazy">
+          <img src="{{ '/images/glacier-tsunami-web.jpg' | relative_url }}" alt="Waves and scattered ice moving away from a calving glacier front" width="2000" height="1506" loading="lazy">
         </div>
         <div class="feature-story__content">
           <p class="feature-story__tag">Mechanics of a changing cryosphere</p>
-          <h3>Why ice shelves hold—and how they fail</h3>
-          <p>Models and observations reveal how ocean coupling, tides, temperature, meltwater, and shear margins govern rift propagation and calving around Antarctica.</p>
+          <h3>How fracture reshapes glacier fronts</h3>
+          <p>Models and field observations reveal how calving, ocean coupling, tides, temperature, meltwater, and shear margins govern fracture propagation, fjord circulation, and ice loss.</p>
           <a class="text-link" href="{{ '/research/#cryosphere' | relative_url }}">See the ice mechanics program</a>
+        </div>
+      </article>
+      <article class="feature-story">
+        <div class="feature-story__media">
+          <img src="{{ '/images/rainier-web.jpg' | relative_url }}" alt="The glaciated summit of Mount Rainier framed by forest" width="2000" height="1500" loading="lazy">
+        </div>
+        <div class="feature-story__content">
+          <p class="feature-story__tag">Solid Earth and natural hazards</p>
+          <h3>Dense sensing across volcanoes and the solid Earth</h3>
+          <p>Fiber observations and mechanics extend tools developed in glaciology to volcanic deformation, earthquakes, seafloor structure, geothermal systems, and national-security monitoring.</p>
+          <a class="text-link" href="{{ '/research/#hazards' | relative_url }}">See the hazards program</a>
         </div>
       </article>
     </div>

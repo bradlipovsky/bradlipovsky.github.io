@@ -10,8 +10,6 @@ location: "Iceland"
 
 A week long fieldtrip to Iceland that emphasizes tectonics, glaciology, volcanology, climate, and Earth history.
 
-![Students and instructors beside a glacier in Iceland](/images/IcelandPhoto.jpg)
-
 ## [Route map](/IcelandMap/)
 
 ## Preliminary Itinerary
