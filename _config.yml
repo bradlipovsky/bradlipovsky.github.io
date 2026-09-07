@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Brad Lipovsky"
 title_separator          : "-"
 name                     : &name "Bradley Paul Lipovsky"
-description              : &description "Brad Lipovsky is a University of Washington geophysicist developing new ways to observe and explain how Earth fractures, flows, and changes."
+description              : &description "Brad Lipovsky studies fracture, friction, deformation, and Earth-material failure using field experiments, dense fiber-optic sensing, and mechanics."
 url                      : https://bradlipovsky.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bradlipovsky/bradlipovsky.github.io"
@@ -87,7 +87,7 @@ analytics:
 author:
   name             : "Brad Lipovsky"
   avatar           :  "newheadshot.jpg"
-  bio              : "Geophysicist studying a changing planet through mechanics and optical fiber sensing."
+  bio              : "UW geophysicist combining field experiments, dense fiber-optic sensing, and mechanics to study Earth-material failure."
   location         : "Seattle, WA"
   employer         : "University of Washington"
   pubmed           : 

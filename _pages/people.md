@@ -2,14 +2,14 @@
 layout: page
 title: "People"
 kicker: "The Lipovsky research group"
-description: "A collaborative group building new observations and physical understanding across the cryosphere, oceans, and solid Earth."
+description: "Students, postdoctoral researchers, and alumni building new observations and physical understanding across the cryosphere, oceans, and solid Earth."
 permalink: /people/
 wide: true
 ---
 <div class="intro-grid">
-  <p class="intro-grid__lead">Excellent science grows from intellectual independence, constructive collaboration, and a culture in which people can do ambitious work sustainably.</p>
+  <p class="intro-grid__lead">The UW FiberLab and Lipovsky group are collaborative communities in which students and postdoctoral researchers build ownership of ambitious scientific ideas.</p>
   <aside class="intro-grid__aside">
-    <p>The group’s shared commitments are straightforward: act kindly and professionally; do ethical, reproducible, open work; discuss credit early; and help every member build ownership of their ideas.</p>
+    <p>The shared commitments are straightforward: act kindly and professionally; do ethical, reproducible, open work; discuss credit early; provide regular feedback; and pursue ambitious work at a sustainable pace.</p>
   </aside>
 </div>
 
@@ -36,6 +36,17 @@ wide: true
 </section>
 {% endfor %}
 
+<section class="research-section">
+  <div class="research-section__title">
+    <p>Mentorship</p>
+    <h2>Developing independent scientists</h2>
+  </div>
+  <div class="research-section__body">
+    <p>Mentoring combines regular one-on-one guidance with increasing intellectual independence. Projects span physical modeling, field instrumentation, data analysis, writing, and scientific communication, with explicit attention to research ethics, authorship, reproducibility, and career development.</p>
+    <p>Former trainees have continued into faculty, postdoctoral, graduate, research, industry, and public-service roles around the world. Alumni are listed with their next known destination where that information is appropriate for a public professional page.</p>
+  </div>
+</section>
+
 <section class="person-section">
   <div class="person-section__heading">
     <h2>Alumni</h2>
@@ -45,7 +56,7 @@ wide: true
     {% for person in site.data.people.alumni %}
     <article class="alumni-item">
       <h3>{% if person.url %}<a href="{{ person.url }}">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</h3>
-      <p>{{ person.period }} · {{ person.destination }}</p>
+      <p>{{ person.period }}{% if person.focus %} · {{ person.focus }}{% endif %}{% if person.destination %}<br>{{ person.destination }}{% endif %}</p>
     </article>
     {% endfor %}
   </div>

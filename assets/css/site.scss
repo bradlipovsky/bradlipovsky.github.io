@@ -385,7 +385,7 @@ select { font: inherit; }
 
 .impact-strip__grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
 }
 
 .impact-stat {
@@ -574,9 +574,7 @@ select { font: inherit; }
 .pub-card__venue { margin: 0.25rem 0 0; color: var(--teal); font-size: 0.78rem; font-weight: 750; }
 .pub-card__link { justify-self: end; }
 
-.cv-summary { display: grid; grid-template-columns: 0.7fr 1fr; gap: 4rem; align-items: start; }
-.cv-summary__portrait { overflow: hidden; border-radius: 0.3rem; }
-.cv-summary__portrait img { width: 100%; aspect-ratio: 4 / 5; object-fit: cover; object-position: center 20%; }
+.cv-summary { max-width: 900px; }
 .cv-summary__copy h2 { margin-top: 0; }
 .credential-list { margin: 2rem 0 0; padding: 0; list-style: none; border-top: 1px solid var(--line); }
 .credential-list li { display: grid; grid-template-columns: 6rem 1fr; gap: 1rem; margin: 0; padding: 1rem 0; border-bottom: 1px solid var(--line); }
@@ -622,9 +620,7 @@ select { font: inherit; }
   .site-nav ul { gap: 1rem; }
   .site-nav a { font-size: 0.72rem; }
   .home-hero__grid { grid-template-columns: 1.08fr 0.92fr; }
-  .impact-strip__grid { grid-template-columns: repeat(2, 1fr); }
-  .impact-stat:nth-child(3) { border-left: 1px solid rgba(255, 255, 255, 0.24); border-top: 1px solid rgba(255, 255, 255, 0.24); }
-  .impact-stat:nth-child(4) { border-top: 1px solid rgba(255, 255, 255, 0.24); }
+  .impact-strip__grid { grid-template-columns: repeat(3, 1fr); }
   .program-grid, .leadership-grid { grid-template-columns: 1fr; }
   .program-card { min-height: 19rem; }
   .leadership-card { min-height: auto; }
@@ -676,7 +672,7 @@ select { font: inherit; }
   .people-callout__portrait { min-height: 29rem; }
   .publication-row { grid-template-columns: 4rem minmax(0, 1fr); gap: 1rem; }
   .publication-row .text-link { grid-column: 2; justify-self: start; }
-  .intro-grid, .research-section, .cv-summary { grid-template-columns: 1fr; gap: 2rem; }
+  .intro-grid, .research-section { grid-template-columns: 1fr; gap: 2rem; }
   .research-topics { grid-template-columns: 1fr; }
   .site-footer__grid { grid-template-columns: 1fr 1fr; gap: 2.5rem; }
   .site-footer__grid > div:first-child { grid-column: 1 / -1; }

@@ -7,7 +7,7 @@ permalink: /publications/
 wide: true
 ---
 <div class="intro-grid">
-  <p class="intro-grid__lead">The publication record connects new observing systems with the mechanics needed to turn unfamiliar signals into physical understanding.</p>
+  <p class="intro-grid__lead">The publication record connects field experiments and dense fiber-optic observations with mechanics, turning unfamiliar signals into direct tests of fracture, friction, deformation, and failure.</p>
   <aside class="intro-grid__aside">
     <p>This page highlights recent and foundational papers. The complete, current record is available through <a href="https://scholar.google.com/citations?user=QLRsDhMAAAAJ&hl=en">Google Scholar</a>, <a href="https://orcid.org/0000-0003-4940-0745">ORCID</a>, and the <a href="{{ '/files/cv.pdf' | relative_url }}">full CV</a>. Asterisks in the CV identify mentees.</p>
   </aside>
@@ -39,8 +39,8 @@ wide: true
 
 <div class="callout">
   <p class="eyebrow eyebrow--light">Complete record</p>
-  <h2>Thirty-seven peer-reviewed publications—and counting.</h2>
-  <p>The CV also includes submitted manuscripts, non-refereed publications, presentations, contribution statements, grants, mentoring, teaching, and service.</p>
+  <h2>Approximately forty papers published or under review—about thirty from the UW period.</h2>
+  <p>The selected work includes contributions to <em>Nature</em> and <em>Science</em>. The CV provides the complete record through September 2026, including submitted manuscripts, presentations, contribution statements, grants, mentoring, teaching, and service; Google Scholar and ORCID provide continuously updated publication indexes.</p>
   <div class="button-row">
     <a class="button button--light" href="{{ '/files/cv.pdf' | relative_url }}">Download the CV</a>
     <a class="button" href="https://scholar.google.com/citations?user=QLRsDhMAAAAJ&hl=en">Google Scholar</a>

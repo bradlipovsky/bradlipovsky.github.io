@@ -9,8 +9,11 @@ The site is designed to make routine updates small and reviewable. Structured fa
 - **Homepage news:** `_data/highlights.yml`
 - **Long-form professional record:** `files/cv.pdf`
 - **Research narrative:** `_pages/research.md`
+- **Leadership, service, and research translation:** `_pages/leadership.md`
 - **Open-position status:** `_pages/hiring.md`
 - **Current courses:** `_pages/teaching.html`
+
+Private teaching evaluations, detailed student committee records, and non-public donor information are not website content. Keep those materials in their appropriate internal records rather than adding them to the public repository.
 
 The website roster is the fastest-moving public record. The CV should be reconciled against `_data/people.yml` whenever a new PDF is added.
 

@@ -2,20 +2,17 @@
 layout: page
 title: "Curriculum vitae"
 kicker: "Bradley Paul Lipovsky"
-description: "Academic positions, research, publications, funding, mentoring, teaching, leadership, and service."
+description: "Academic positions, research, publications, funding, mentoring, teaching, leadership, and service in glaciology and fiber sensing."
 permalink: /cv/
 wide: true
 redirect_from:
   - /resume
 ---
 <div class="cv-summary">
-  <div class="cv-summary__portrait">
-    <img src="{{ '/images/newheadshot.jpg' | relative_url }}" alt="Brad Lipovsky" width="1455" height="1940">
-  </div>
   <div class="cv-summary__copy">
     <p class="eyebrow">Geophysicist · Educator · Research leader</p>
-    <h2>Mechanics and new observations for a changing planet.</h2>
-    <p>Brad Lipovsky is an Assistant Professor in the University of Washington Department of Earth and Space Sciences. His group develops optical fiber sensing and physics-based models for problems in glaciology, seismology, ocean science, volcanology, and natural hazards.</p>
+    <h2>Field experiments and mechanics of Earth-material failure.</h2>
+    <p>Brad Lipovsky is an Assistant Professor in the University of Washington Department of Earth and Space Sciences and founder of the UW FiberLab. A modeler and field scientist, he combines dense fiber-optic sensing with mechanics to test how Earth materials fracture, deform, and fail across glaciology, seismology, oceanography, volcanology, and natural hazards.</p>
     <div class="button-row">
       <a class="button" href="{{ '/files/cv.pdf' | relative_url }}">Download full CV</a>
       <a class="button button--ghost" href="https://scholar.google.com/citations?user=QLRsDhMAAAAJ&hl=en">Google Scholar</a>
@@ -29,10 +26,4 @@ redirect_from:
       <li><strong>2008</strong><span>BA in Mathematics, Cornell University</span></li>
     </ul>
   </div>
-</div>
-
-<div class="callout">
-  <p class="eyebrow eyebrow--light">Current edition</p>
-  <h2>Last updated 8 April 2026.</h2>
-  <p>The PDF is the authoritative detailed record. Group membership is maintained separately on the <a class="text-link text-link--light" href="{{ '/people/' | relative_url }}">People page</a> so changes can be published promptly.</p>
 </div>

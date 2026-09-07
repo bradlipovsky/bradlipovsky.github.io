@@ -2,7 +2,7 @@
 layout: default
 permalink: /
 title: "Brad Lipovsky"
-description: "Brad Lipovsky develops new ways to observe and explain how Earth fractures, flows, and changes."
+description: "Brad Lipovsky studies fracture, friction, deformation, and Earth-material failure using field experiments, dense fiber-optic sensing, and mechanics."
 image: /images/rift.jpg
 body_class: home
 redirect_from:
@@ -13,8 +13,8 @@ redirect_from:
   <div class="home-hero__grid">
     <div class="home-hero__content">
       <p class="eyebrow eyebrow--light">Geophysicist · University of Washington</p>
-      <h1 id="home-title">New ways to see a changing planet.</h1>
-      <p class="home-hero__lede">Brad Lipovsky develops optical fiber observatories and physics-based models to reveal how Earth fractures, flows, and changes—from glacier beds and Antarctic ice shelves to volcanoes and the deep ocean.</p>
+      <h1 id="home-title">Understanding how Earth materials fracture, deform, and fail.</h1>
+      <p class="home-hero__lede">Brad Lipovsky combines field experiments, dense fiber-optic sensing, and mechanics to directly test how friction evolves and how Earth materials fracture, deform, and fail—from engineered hydraulic fractures and glacier beds to ice shelves, volcanoes, and the deep ocean.</p>
       <div class="button-row">
         <a class="button button--light" href="{{ '/research/' | relative_url }}">Explore the research</a>
         <a class="button" href="{{ '/files/cv.pdf' | relative_url }}">Download CV</a>
@@ -28,10 +28,9 @@ redirect_from:
 
 <section class="impact-strip" aria-label="Research indicators">
   <div class="shell impact-strip__grid">
-    <div class="impact-stat"><strong>37</strong><span>Peer-reviewed publications</span></div>
-    <div class="impact-stat"><strong>$6.7M</strong><span>Research funding raised since 2020¹</span></div>
-    <div class="impact-stat"><strong>16</strong><span>Funded projects and awards</span></div>
-    <div class="impact-stat"><strong>1</strong><span>University photonic sensing facility co-led</span></div>
+    <div class="impact-stat"><strong>~40</strong><span>Papers published or under review¹</span></div>
+    <div class="impact-stat"><strong>$3.4M+</strong><span>Research support secured for the group¹</span></div>
+    <div class="impact-stat"><strong>$13.3M</strong><span>UW awards involving the group¹</span></div>
   </div>
 </section>
 
@@ -40,27 +39,27 @@ redirect_from:
     <div class="section-heading">
       <div>
         <p class="eyebrow">A unified research program</p>
-        <h2 id="programs-title">Observation and mechanics, working together.</h2>
+        <h2 id="programs-title">Field experiments, dense sensing, and mechanics.</h2>
       </div>
       <p>The group builds new sensing capabilities, develops physical theory, and brings both to consequential problems in the cryosphere, oceans, and solid Earth.</p>
     </div>
     <div class="program-grid">
       <article class="program-card">
         <p class="program-card__number">01</p>
-        <h3>Optical fiber geophysics</h3>
-        <p>Turning existing and purpose-built fiber cables into dense observatories for seismic, acoustic, thermal, and environmental signals.</p>
+        <h3>Dense fiber-optic sensing</h3>
+        <p>Turning existing and purpose-built fiber cables into observatories that resolve deformation, fracture, friction, and wave propagation in the field.</p>
         <a class="text-link" href="{{ '/research/#fiber-sensing' | relative_url }}">Explore fiber sensing</a>
       </article>
       <article class="program-card">
         <p class="program-card__number">02</p>
-        <h3>Ice fracture and dynamics</h3>
-        <p>Explaining how glaciers slide, ice shelves fracture, and ice–ocean interactions shape future sea-level change.</p>
+        <h3>Fracture and failure across scales</h3>
+        <p>Connecting hydraulic fractures, glacier sliding, ice-shelf rifts, and calving to the mechanics that govern failure and stability.</p>
         <a class="text-link" href="{{ '/research/#cryosphere' | relative_url }}">Explore cryosphere research</a>
       </article>
       <article class="program-card">
         <p class="program-card__number">03</p>
-        <h3>Environmental hazards</h3>
-        <p>Connecting waves and deformation to earthquakes, volcanoes, landslides, geothermal systems, and ocean processes.</p>
+        <h3>Deformation in a changing world</h3>
+        <p>Extending the same observational and mechanical approach to oceans, earthquakes, volcanoes, landslides, geothermal systems, and national-security monitoring.</p>
         <a class="text-link" href="{{ '/research/#hazards' | relative_url }}">Explore hazards research</a>
       </article>
     </div>
@@ -84,7 +83,7 @@ redirect_from:
         <div class="feature-story__content">
           <p class="feature-story__tag">Dense environmental observatories</p>
           <h3>Fiber sensing from glacier boreholes to the deep ocean</h3>
-          <p>A single optical fiber can become thousands of synchronized sensors. The group is extending that idea across Greenland fjords, Antarctic ice, Cascade volcanoes, and submarine telecommunications infrastructure.</p>
+          <p>A single optical fiber can become thousands of synchronized sensors. The group is extending that idea across Greenland fjords, Antarctic ice, volcanic systems, and submarine telecommunications infrastructure—from purpose-built experiments to ocean-basin-scale networks.</p>
           <a class="text-link" href="{{ '/research/#fiber-sensing' | relative_url }}">See the sensing program</a>
         </div>
       </article>
@@ -116,19 +115,20 @@ redirect_from:
       <article class="leadership-card">
         <div class="leadership-card__icon" aria-hidden="true">F</div>
         <h3>Research infrastructure</h3>
-        <p>Co-leadership of the UW Photonic Sensing Facility and multi-institution projects that turn fiber networks into observatories.</p>
+        <p>Founder of the UW FiberLab, a collaborative research enterprise that turns purpose-built and existing fiber networks into shared environmental observatories.</p>
       </article>
       <article class="leadership-card">
         <div class="leadership-card__icon" aria-hidden="true">C</div>
         <h3>Community leadership</h3>
-        <p>Conference Chair for “Optical Seismology and the Next Era in Seismic Sensing,” plus working-group, editorial, and advisory roles.</p>
+        <p>Organizer of “Optical Seismology and the Next Era of Seismic Sensing,” plus sustained conference, working-group, and advisory leadership.</p>
       </article>
       <article class="leadership-card">
         <div class="leadership-card__icon" aria-hidden="true">O</div>
         <h3>Open, reproducible science</h3>
-        <p>Open-access publishing, public code and data, and training resources designed to make new methods useful beyond a single project.</p>
+        <p>Open data, code, training resources, equipment access, and research translation designed to make new methods useful beyond a single project.</p>
       </article>
     </div>
+    <p><a class="text-link text-link--light" href="{{ '/leadership/' | relative_url }}">Explore leadership and impact</a></p>
   </div>
 </section>
 
@@ -165,7 +165,7 @@ redirect_from:
       <div class="people-callout__content">
         <p class="eyebrow eyebrow--light">The Lipovsky research group</p>
         <h2 id="group-title">Ambitious science, built by people who own their ideas.</h2>
-        <p>Our group pairs high expectations for ethical, reproducible work with a culture that values kindness, inclusion, sustainable careers, and intellectual independence.</p>
+        <p>Our group pairs high expectations for ethical, reproducible work with kindness, inclusion, candid conversations about credit, sustainable careers, and intellectual ownership for students and postdoctoral scholars.</p>
         <div class="button-row">
           <a class="button button--light" href="{{ '/people/' | relative_url }}">Meet the group</a>
           <a class="button" href="{{ '/opportunities/' | relative_url }}">Work with us</a>
@@ -197,6 +197,6 @@ redirect_from:
       </article>
       {% endfor %}
     </div>
-    <p><small>¹ Total includes projects on which Lipovsky is a co-investigator. Metrics reflect the April 2026 CV.</small></p>
+    <p><small>¹ Publication count includes manuscripts under review, with approximately thirty papers from the UW period. Funding figures summarize awards led or co-led by Lipovsky: more than $3.4M supporting his group, contributing to $13.3M at UW and $26.5M across partner institutions.</small></p>
   </div>
 </section>
