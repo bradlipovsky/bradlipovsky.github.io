@@ -13,7 +13,7 @@ redirect_from:
   <div class="home-hero__grid">
     <div class="home-hero__content">
       <p class="eyebrow eyebrow--light">Geophysicist · University of Washington</p>
-      <h1 id="home-title">Testing how Earth materials fracture, deform, and fail.</h1>
+      <h1 id="home-title">The mechanics of fracture, deformation, and failure in Earth systems, revealed through geophysical observations and models.</h1>
       <p class="home-hero__lede">Brad Lipovsky combines controlled field experiments, dense fiber-optic sensing, and mechanics to test how fluid-driven fractures grow, arrest, and interact with ice, rock, and water.</p>
       <div class="button-row">
         <a class="button button--light" href="{{ '/research/' | relative_url }}">Explore the research</a>
