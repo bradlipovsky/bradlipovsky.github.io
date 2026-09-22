@@ -3,7 +3,7 @@ layout: default
 permalink: /
 title: "Brad Lipovsky"
 description: "Brad Lipovsky tests how Earth materials fracture, deform, and fail using field experiments, dense fiber-optic sensing, and mechanics."
-image: /images/iceberg-web.jpg
+image: /images/glacier-field-team-web.jpg
 body_class: home
 redirect_from:
   - /about/
@@ -21,7 +21,7 @@ redirect_from:
       </div>
     </div>
     <div class="home-hero__image">
-      <img src="{{ '/images/iceberg-web.jpg' | relative_url }}" alt="A sculpted iceberg floating in calm blue water" width="2000" height="1336">
+      <img src="{{ '/images/glacier-field-team-web.jpg' | relative_url }}" alt="Three field researchers crossing a fractured glacier beneath a heavily crevassed ice slope" width="1500" height="2000">
     </div>
   </div>
 </section>
