@@ -78,9 +78,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false
+  provider               : "google-ga4"
   google:
-    tracking_id          :
+    measurement_id       : "G-QF8KVFSV48"
 
 
 # Site Author
