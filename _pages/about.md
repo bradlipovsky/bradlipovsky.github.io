@@ -29,8 +29,8 @@ redirect_from:
 <section class="impact-strip" aria-label="Research indicators">
   <div class="shell impact-strip__grid">
     <div class="impact-stat"><strong>~40</strong><span>Papers published or under review¹</span></div>
-    <div class="impact-stat"><strong>$3.4M+</strong><span>Research support secured for the group¹</span></div>
-    <div class="impact-stat"><strong>$13.3M</strong><span>UW awards involving the group¹</span></div>
+    <div class="impact-stat"><strong>$4.9M+</strong><span>Research support secured for the group¹</span></div>
+    <div class="impact-stat"><strong>$19.7M</strong><span>UW awards involving the group¹</span></div>
   </div>
 </section>
 
@@ -208,6 +208,6 @@ redirect_from:
       </article>
       {% endfor %}
     </div>
-    <p><small>¹ Publication count includes manuscripts under review, with approximately thirty papers from the UW period. Funding figures summarize awards led or co-led by Lipovsky: more than $3.4M supporting his group, contributing to $13.3M at UW and $26.5M across partner institutions.</small></p>
+    <p><small>¹ Publication count includes manuscripts under review, with approximately thirty papers from the UW period. Funding figures summarize awards led or co-led by Lipovsky: more than $4.9M supporting his group, contributing to $19.7M at UW and $49.0M across partner institutions.</small></p>
   </div>
 </section>
